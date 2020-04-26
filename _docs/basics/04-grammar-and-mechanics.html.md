@@ -231,21 +231,21 @@ Grammarly points out, "If the noun comes first, leave the hyphen out."
 
 What's the difference between hyphens and en dashes?
 
-The hyphen is smaller than then en dash (&ndash;). Mailchimp says above to use a hyphen for ranges.  The [Chicaho Manual of Style (CMOS)](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/HyphensEnDashesEmDashes/faq0002.html) and [Grammarly](https://www.grammarly.com/blog/en-dash/) say to use an en dash for ranges. Yet, outside of print, hyphens are the norm. Here's the distinction according to CMOS.
+The hyphen is smaller than then en dash (&ndash;). Mailchimp says above to use a hyphen for ranges.  The [Chicago Manual of Style (CMOS)](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/HyphensEnDashesEmDashes/faq0002.html) and [Grammarly](https://www.grammarly.com/blog/en-dash/) say to use an en dash for ranges. Yet, outside of print, hyphens are the norm. Here's the distinction according to CMOS.
 
 >The hyphen connects two things that are intimately related, usually words that function together as a single concept or work together as a joint modifier (e.g., tie-in, toll-free call, two-thirds). The en dash connects things that are related to each other by distance, as in the May&ndash;September issue of a magazine; it’s not a May-September issue, because June, July, and August are also ostensibly included in this range. ~CMOS
 
 Here's an example from Grammarly.
 
->Our part-time employees work 20&endash;30 hours per week.
+- Our part-time employees work 20&ndash;30 hours per week.
 
 Grammarly says to use the word _to_ if the word _from_ introduces a range.
 
->Nelson Mandela was President of South Africa from 1994 to 1999.
+- Mandela was President of South Africa from 1994 to 1999.
 
 Grammarly says to use the word _and_ if the word  _between_ introduces a range.
 
->Homer eats between 60 and 75 donuts per month.
+- Homer eats between 60 and 75 donuts per month.
 
 #### Ellipses
 
