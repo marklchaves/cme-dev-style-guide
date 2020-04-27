@@ -224,10 +224,12 @@ Use a true em dash, not hyphens (- or --).
  
 #### More on hyphens, en dashes, and em dashes
 
-Grammarly points out, "If the noun comes first, leave the hyphen out."
+Grammarly points out for compound modifiers, "If the noun comes first, leave the hyphen out."
 
 - Yes: This wall is load bearing.
 - Yes: Sam leaned against a load-bearing wall.
+
+Uncanny Owl warns to watch for too much hyphenation. For example, “fill in” shouldn’t be “fill-in”, unless it's a noun and not an action.
 
 What's the difference between hyphens and en dashes?
 
