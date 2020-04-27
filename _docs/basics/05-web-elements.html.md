@@ -78,6 +78,10 @@ Use lists to present steps, groups, or sets of information. Give context for the
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
+### More on lists
+
+For Uncanny Owl, preface all lists with colons, not periods. For Uncanny Owl, preface all lists with colons, not periods. Bullet points should relate to the original statement, not necessarily flow into each other. For each bullet, read it as if it follows the statement with the colon at the top, not the previous point. Then, make sure it still works.
+
 ### Navigation
 
 Use title case for main or global navigation. Use sentence case for subnavigation.
