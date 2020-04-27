@@ -80,7 +80,7 @@ If one of the list items is a complete sentence, use proper punctuation and capi
 
 ### More on lists
 
-For Uncanny Owl, preface all lists with colons, not periods. For Uncanny Owl, preface all lists with colons, not periods. Bullet points should relate to the original statement, not necessarily flow into each other. For each bullet, read it as if it follows the statement with the colon at the top, not the previous point. Then, make sure it still works.
+For Uncanny Owl, preface all lists with colons, not periods. Bullet points should relate to the original statement, not necessarily flow into each other. For each bullet, read it as if it follows the statement with the colon at the top, not the previous point. Then, make sure it still works.
 
 ### Navigation
 
