@@ -24,10 +24,10 @@ Adhering to certain rules of grammar and mechanics helps us keep our writing cle
 
 If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
 
-- First use: Network Operations Center
-- Second use: NOC
-- First use: Coordinated Universal Time (UTC)
-- Second use: UTC
+* First use: Network Operations Center
+* Second use: NOC
+* First use: Coordinated Universal Time (UTC)
+* Second use: UTC
 
 If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
 
@@ -37,14 +37,14 @@ Use active voice. Avoid passive voice.
 
 In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it.
 
-- Yes: Marti logged into the account.
-- No: The account was logged into by Marti.
+* Yes: Marti logged into the account.
+* No: The account was logged into by Marti.
 
 Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our Abuse team.
+* Your account was flagged by our Abuse team.
 
 ### Capitalization
 
@@ -52,45 +52,62 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@mailchimp.com
-- mailchimp.com
+* freddie@mailchimp.com
+* mailchimp.com
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
-- website
-- internet
-- online
-- email
+* website
+* internet
+* online
+* email
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. 
+They’re great\! They give your writing an informal, friendly tone.
 
 ### Emoji
 
 Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
 
+### Introductory phrases
+
+This is how to write "at the time of writing".
+
+* Yes: "At the time of writing,"
+* No: "At the time of this writing,"
+* No: "At the time of writing this,"
+
+The comma is optional if the introductory phrase is prepositional.
+
+If "instead" is working as a preposition, the comma is optional. Use a comma if "instead" is an adverb.
+
+* Yes: These special rules are added to this guide instead of overwriting the original rule.
+* Yes: I love literature. Instead, opted for computer science.
+
+Example: At the time of writing we had just released version 1.0.
+
 ### Numbers
 
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals.
 
-- Ten new employees started on Monday, and 12 start next week.
-- I ate 3 donuts at Coffee Hour.
-- Meg won 1st place in last year’s Walktober contest.
-- We hosted a group of 8th graders who are learning to code.
+* Ten new employees started on Monday, and 12 start next week.
+* I ate 3 donuts at Coffee Hour.
+* Meg won 1st place in last year’s Walktober contest.
+* We hosted a group of 8th graders who are learning to code.
 
 Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
 
-- A friendly welcome email can help you make a great first impression.
-- That is a third-party integration.
-- Put your best foot forward with the all-in-one Marketing Platform that grows with you.
-- After you send your newsletter, Freddie will give you a high-five.
+* A friendly welcome email can help you make a great first impression.
+* That is a third-party integration.
+* Put your best foot forward with the all-in-one Marketing Platform that grows with you.
+* After you send your newsletter, Freddie will give you a high-five.
 
 Numbers over 3 digits get commas:
 
-- 999
-- 1,000
-- 150,000
+* 999
+* 1,000
+* 150,000
 
 Write out big numbers in full. Abbreviate them if there are space restraints, as in a tweet or a chart: 1k, 150k.
 
@@ -98,15 +115,15 @@ Write out big numbers in full. Abbreviate them if there are space restraints, as
 
 Generally, spell out the day of the week and the month. Abbreviate only if space is an issue in the app.
 
-- Saturday, January 24
-- Sat., Jan. 24
+* Saturday, January 24
+* Sat., Jan. 24
 
 #### Decimals and fractions
 
 Spell out fractions.
 
-- Yes: two-thirds
-- No: 2/3
+* Yes: two-thirds
+* No: 2/3
 
 Use decimal points when a number can’t be easily written out as a fraction, like 1.375 or 47.2.
 
@@ -118,64 +135,64 @@ Use the % symbol instead of spelling out "percent."
 
 Use a hyphen (-) to indicate a range or span of numbers.
 
-- It takes 20-30 days.
+* It takes 20-30 days.
 
 #### Money
 
 When writing about US currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
 
-- $20
-- $19.99
+* $20
+* $19.99
 
 When writing about other currencies, follow the same symbol-amount format:
 
-- ¥1
-- €1
+* ¥1
+* €1
 
 #### Telephone numbers
 
 Use dashes without spaces between numbers. Use a country code if your reader is in another country.
 
-- 555-867-5309
-- +1-404-123-4567
+* 555-867-5309
+* \+1-404-123-4567
 
 #### Temperature
 
 Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
-- 98°F
+* 98&deg;F
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
-- 7:30 pm
+* 7 am
+* 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
-- 7 am–10:30 pm
+* 7 am–10:30 pm
 
 Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
-- Eastern time: ET
-- Central time: CT
-- Mountain time: MT
-- Pacific time: PT
+* Eastern time: ET
+* Central time: CT
+* Mountain time: MT
+* Pacific time: PT
 
 When referring to international time zones, spell them out: Nepal Standard Time, Australian Eastern Time. If a time zone does not have a set name, use its [Coordinated Universal Time (UTC) offset](https://en.wikipedia.org/wiki/List_of_UTC_time_offsets).
 
 Abbreviate decades when referring to those within the past 100 years.
 
-- the 00s
-- the 90s
+* the 00s
+* the 90s
 
 When referring to decades more than 100 years ago, be more specific:
 
-- the 1900s
-- the 1890s
+* the 1900s
+* the 1890s
 
 ### Punctuation
 
@@ -183,9 +200,9 @@ When referring to decades more than 100 years ago, be more specific:
 
 The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ‘s. If the word ends in an s and is plural, just add an apostrophe.
 
-- The donut thief ate Sam’s donut.
-- The donut thief ate Chris’s donut.
-- The donut thief ate the managers’ donuts.
+* The donut thief ate Sam’s donut.
+* The donut thief ate Chris’s donut.
+* The donut thief ate the managers’ donuts.
 
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
 
@@ -193,81 +210,81 @@ Apostrophes can also be used to denote that you’ve dropped some letters from a
 
 Use a colon (rather than an ellipsis, em dash, or comma) to offset a list.
 
-- Erin ordered 3 kinds of donuts: glazed, chocolate, and pumpkin.
+* Erin ordered 3 kinds of donuts: glazed, chocolate, and pumpkin.
 
 You can also use a colon to join 2 related phrases. If a complete sentence follows the colon, capitalize the 1st word.
 
-- I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
+* I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
 
 #### Commas
 
-When writing a list, use the serial comma (also known as the Oxford comma). 
+When writing a list, use the serial comma (also known as the Oxford comma).
 
-- Yes: David admires his parents, Oprah, and Justin Timberlake.
-- No: David admires his parents, Oprah and Justin Timberlake.
+* Yes: David admires his parents, Oprah, and Justin Timberlake.
+* No: David admires his parents, Oprah and Justin Timberlake.
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
+Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
 
-- first-time user
-- Monday-Friday
+* first-time user
+* Monday-Friday
 
 Use an em dash (—) without spaces on either side to offset an aside.
 
-Use a true em dash, not hyphens (- or --).
+Use a true em dash, not hyphens (- or –).
 
-- Multivariate testing—just one of our new Pro features—can help you grow your business.
-- Austin thought Brad was the donut thief, but he was wrong—it was Lain.
- 
+* Multivariate testing—just one of our new Pro features—can help you grow your business.
+* Austin thought Brad was the donut thief, but he was wrong—it was Lain.
+
 #### More on hyphens, en dashes, and em dashes
 
 Grammarly points out for compound modifiers, "If the noun comes first, leave the hyphen out."
 
-- Yes: This wall is load bearing.
-- Yes: Sam leaned against a load-bearing wall.
+* Yes: This wall is load bearing.
+* Yes: Sam leaned against a load-bearing wall.
 
 Uncanny Owl warns to watch for too much hyphenation. For example, “fill in” shouldn’t be “fill-in”, unless it's a noun and not an action.
 
 What's the difference between hyphens and en dashes?
 
-The hyphen is smaller than then en dash (&ndash;). Mailchimp says above to use a hyphen for ranges.  The [Chicago Manual of Style (CMOS)](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/HyphensEnDashesEmDashes/faq0002.html) and [Grammarly](https://www.grammarly.com/blog/en-dash/) say to use an en dash for ranges. Yet, outside of print, hyphens are the norm. Here's the distinction according to CMOS.
+The hyphen is smaller than then en dash (–). Mailchimp says above to use a hyphen for ranges. The [Chicago Manual of Style (CMOS)](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/HyphensEnDashesEmDashes/faq0002.html) and [Grammarly](https://www.grammarly.com/blog/en-dash/) say to use an en dash for ranges. Yet, outside of print, hyphens are the norm. Here's the distinction according to CMOS.
 
->The hyphen connects two things that are intimately related, usually words that function together as a single concept or work together as a joint modifier (e.g., tie-in, toll-free call, two-thirds). The en dash connects things that are related to each other by distance, as in the May&ndash;September issue of a magazine; it’s not a May-September issue, because June, July, and August are also ostensibly included in this range. ~CMOS
+> The hyphen connects two things that are intimately related, usually words that function together as a single concept or work together as a joint modifier (e.g., tie-in, toll-free call, two-thirds). The en dash connects things that are related to each other by distance, as in the May–September issue of a magazine; it’s not a May-September issue, because June, July, and August are also ostensibly included in this range. ~CMOS
 
 Here's an example from Grammarly.
 
-- Our part-time employees work 20&ndash;30 hours per week.
+* Our part-time employees work 20–30 hours per week.
 
-Grammarly says to use the word _to_ if the word _from_ introduces a range.
+Grammarly says to use the word *to* if the word *from* introduces a range.
 
-- Mandela was President of South Africa from 1994 to 1999.
+* Mandela was President of South Africa from 1994 to 1999.
 
-Grammarly says to use the word _and_ if the word  _between_ introduces a range.
+Grammarly says to use the word *and* if the word *between* introduces a range.
 
-- Homer eats between 60 and 75 donuts per month.
+* Homer eats between 60 and 75 donuts per month.
 
 #### Ellipses
 
-Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+Ellipses (…) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
-- “Where did all those donuts go?” Christy asked. Lain said, “I don't know...”
+* “Where did all those donuts go?” Christy asked. Lain said, “I don't know…”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
-- “When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.”
+* “When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, \[…\] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.”
 
 #### Periods
 
 Periods go inside quotation marks. They go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
-- Christy said, “I ate a donut.”
-- I ate a donut (and I ate a bagel, too).
-- I ate a donut and a bagel. (The donut was Sam’s.)
+* Christy said, “I ate a donut.”
+* I ate a donut (and I ate a bagel, too).
+* I ate a donut and a bagel. (The donut was Sam’s.)
 
-Leave a single space between sentences. 
+Leave a single space between sentences.
 
 #### Question marks
 
@@ -279,7 +296,7 @@ Use exclamation points sparingly, and never more than one at a time. They’re l
 
 Exclamation points go inside quotation marks. Like periods and question marks, they go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
-Never use exclamation points in failure messages or alerts. When in doubt, avoid!
+Never use exclamation points in failure messages or alerts. When in doubt, avoid\!
 
 #### Quotation marks
 
@@ -289,8 +306,8 @@ Periods and commas go within quotation marks. Question marks within quotes follo
 
 Use single quotation marks for quotes within quotes.
 
-- Who was it that said, “A fool and his donut are easily parted”?
-- Brad said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
+* Who was it that said, “A fool and his donut are easily parted”?
+* Brad said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
 
 #### Semicolons
 
@@ -300,8 +317,8 @@ Go easy on semicolons. They usually support long, complicated sentences that cou
 
 Don't use ampersands unless one is part of a company or brand name.
 
-- Ben and Dan
-- Ben & Jerry’s
+* Ben and Dan
+* Ben & Jerry’s
 
 ### People, places, and things
 
@@ -309,17 +326,17 @@ Don't use ampersands unless one is part of a company or brand name.
 
 When referring generally to a file extension type, use all uppercase without a period. Add a lowercase s to make plural.
 
-- GIF
-- PDF
-- HTML
-- JPGs
+* GIF
+* PDF
+* HTML
+* JPGs
 
 When referring to a specific file, the filename should be lowercase:
 
-- slowclap.gif
-- MCBenefits.pdf
-- ben-twitter-profile.jpg
-- ilovedonuts.html
+* slowclap.gif
+* MCBenefits.pdf
+* ben-twitter-profile.jpg
+* ilovedonuts.html
 
 #### Pronouns
 
@@ -331,7 +348,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using Mailchimp has helped our business grow,” says Jamie Smith.
+* “Using Mailchimp has helped our business grow,” says Jamie Smith.
 
 #### Names and titles
 
@@ -339,13 +356,13 @@ The first time you mention a person in writing, refer to them by their first and
 
 Capitalize the names of departments and teams (but not the word "team" or "department").
 
-- Marketing team
-- Support department
+* Marketing team
+* Support department
 
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
-- Our new Marketing Manager starts today.
-- All the managers ate donuts. 
+* Our new Marketing Manager starts today.
+* All the managers ate donuts.
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
@@ -353,8 +370,8 @@ Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless 
 
 The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
 
-- Georgia Institute of Technology, Georgia Tech
-- Georgia State University, GSU
+* Georgia Institute of Technology, Georgia Tech
+* Georgia State University, GSU
 
 #### States, cities, and countries
 
@@ -380,20 +397,20 @@ Refer to Mailchimp as “we,” not “it.”
 
 Capitalize branded terms, like Mailchimp Presents. We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives.
 
-Don’t capitalize descriptive product or feature names, like email or landing pages. 
+Don’t capitalize descriptive product or feature names, like email or landing pages.
 
-- Mandrill
-- templates
-- Mailchimp’s mobile app
-- Essentials plan
+* Mandrill
+* templates
+* Mailchimp’s mobile app
+* Essentials plan
 
 #### Writing about other companies
 
 Honor companies’ own names for themselves and their products. Go by what’s used on their official website.
 
-- iPad
-- YouTube
-- Yahoo!
+* iPad
+* YouTube
+* Yahoo\!
 
 Refer to a company or product as “it” (not “they”).
 
@@ -401,19 +418,19 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+* Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
 Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
 
-- *Dunston Checks In*
-- Brandon *really* loves *Dunston Checks In*.
+* *Dunston Checks In*
+* Brandon *really* loves *Dunston Checks In*.
 
 Use italics when citing an example of an in-app Mailchimp element, or referencing button and navigation labels in step-by-step instructions:
 
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
+* When you're all done, click *Send*.
+* The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
@@ -425,5 +442,5 @@ Leave one space between sentences, never 2.
 
 Use positive language rather than negative language. One way to detect negative language is to look for words like “can’t,” “don’t,” etc.
 
-- Yes: To get a donut, stand in line.
-- No: You can’t get a donut if you don’t stand in line.
+* Yes: To get a donut, stand in line.
+* No: You can’t get a donut if you don’t stand in line.
