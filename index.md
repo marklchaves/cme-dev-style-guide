@@ -25,3 +25,5 @@ Mailchimp and Caught My Eye invites you to use and adapt this style guide as you
 We welcome any feedback for improving the guide.
 
 [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+
+[Caught My Eye Style Guide on GitHub](https://github.com/marklchaves/cme-dev-style-guide)
