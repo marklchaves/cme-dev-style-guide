@@ -18,6 +18,8 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - cost per click
 - double-click
 - drop-down (noun, adjective), drop down (verb)
+- eBay
+- e-book, e-cigarette
 - e-commerce (the industry)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
@@ -27,17 +29,21 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
   - Subject line
   - Cc, Bcc
 - emoji (singular and plural)
+- Facebook
 - front end (noun), front-end (adjective)
 - geolocation
 - hashtag
 - homepage
 - integrate
 - internet (never capitalize unless it begins a sentence)
+- iOS
+- iPhone
 - login (noun, adjective), log in (verb)
 - Like (the social media activity)
+- macOS
 - multichannel
 - nonprofit
-- OK
+- OK, okay (Uncanny)
 - omnichannel (use sparingly)
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective) , opt in (verb)
@@ -50,9 +56,11 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - third party (noun), third-party (adjective) 
 - tweet, retweet
 - username
+- Uncanny Owl
 - URL
 - website
 - WiFi
+- WordPress
 
 ## Words to use carefully
 We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
