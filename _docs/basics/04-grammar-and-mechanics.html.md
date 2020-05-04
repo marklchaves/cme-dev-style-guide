@@ -96,12 +96,12 @@ This is how to write "at the time of writing".
 
 The [comma is optional](https://www.grammarly.com/blog/commas-after-introductory-phrases/) if the introductory phrase is prepositional.
 
+Example: At the time of writing we had just released version 1.0.
+
 If "instead" is working as a preposition, the comma is optional. Use a comma if "instead" is an [adverb](https://english.stackexchange.com/questions/396200/comma-usage-do-i-need-a-comma-before-instead-and-if-so-why).
 
 * Yes: These special rules are added to this guide instead of overwriting the original rule.
 * Yes: I love literature. Instead, I opted for computer science.
-
-Example: At the time of writing we had just released version 1.0.
 
 ### Numbers
 
