@@ -53,12 +53,12 @@ One exception is when you want to specifically emphasize the action over the sub
 Use _an_ before consonants that sound like vowels.
 
 * Yes: You can trust an honest person.
-* No: You can trust a honet person.
+* No: You can trust a honest person.
  
 Use _a_ before vowels that sound like consonants.
 
-* Yes: There is an United States flag at school.
-* No: There is a United States flag at school.
+* Yes: There is a United States flag at school.
+* No: There is an United States flag at school.
 
 ### Capitalization
 
