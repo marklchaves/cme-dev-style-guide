@@ -46,6 +46,20 @@ One exception is when you want to specifically emphasize the action over the sub
 
 * Your account was flagged by our Abuse team.
 
+### Articles
+
+#### Exceptions for A and An
+
+Use _an_ before consonants that sound like vowels.
+
+* Yes: You can trust an honest person.
+* No: You can trust a honet person.
+ 
+Use _a_ before vowels that sound like consonants.
+
+* Yes: There is an United States flag at school.
+* No: There is a United States flag at school.
+
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
