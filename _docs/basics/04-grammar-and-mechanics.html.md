@@ -60,6 +60,8 @@ Use _a_ before vowels that sound like consonants.
 * Yes: There is a United States flag at school.
 * No: There is an United States flag at school.
 
+> This holds true with acronyms and initialisms, too: an LCD display, a UK-based company, an HR department, a URL. ~Grammarly
+
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
