@@ -20,7 +20,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - drop-down (noun, adjective), drop down (verb)
 - eBay
 - e-book, e-cigarette
-- e-commerce (the industry)
+- e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (Uncanny Owl)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
