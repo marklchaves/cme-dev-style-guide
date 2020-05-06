@@ -45,6 +45,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - nonprofit
 - OK, okay (Uncanny)
 - omnichannel (use sparingly)
+- one of a kind (noun phrase), one-of-a-kind (adjective)
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective) , opt in (verb)
 - pay-per-click (PPC)
@@ -52,6 +53,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pre-sale
 - product-market fit
 - signup (noun, adjective), sign up (verb)
+- state of the art (noun), state-of-the-art (adjective)
 - sync
 - third party (noun), third-party (adjective) 
 - tweet, retweet
