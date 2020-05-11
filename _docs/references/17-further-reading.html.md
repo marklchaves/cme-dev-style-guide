@@ -19,6 +19,7 @@ If you’re working on your own style guide, these resources were helpful to us:
 [WAVE Web Accessibility Evaluation Tool](http://wave.webaim.org/)   
 [The Conscious Style Guide](http://consciousstyleguide.com/)   
 [GLAAD Media Reference Guide](http://www.glaad.org/reference)   
+[Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 
 Want to adapt our guide to use at your own organization?
 
