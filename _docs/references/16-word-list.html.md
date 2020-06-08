@@ -54,6 +54,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pre-sale
 - product-market fit
 - RDBMS (relational database management system)
+- setup (noun), set up (verb)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
 - state of the art (noun), state-of-the-art (adjective)
@@ -62,10 +63,11 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - tweet, retweet
 - username
 - Uncanny Owl
-- URL
+- URL (uniform resource locator aka link or webpage address)
+- webpage
 - website
 - WiFi
-- WordPress
+- WordPress (not Wordpress or wordpress)
 
 ## Words to use carefully
 We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
