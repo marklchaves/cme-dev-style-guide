@@ -46,7 +46,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - macOS
 - multichannel
 - nonprofit
-- OK, okay (Uncanny)
+- OK, okay (for Uncanny Owl)
 - omnichannel (use sparingly)
 - one of a kind (noun phrase), one-of-a-kind (adjective)
 - online (never capitalize unless it begins a sentence)
