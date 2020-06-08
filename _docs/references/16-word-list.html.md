@@ -13,6 +13,8 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - beta
 - brick-and-mortar 
 - checkbox
+- coronavirus (not corona virus)
+- COVID-19 (not covid-19, COVID19, or COVID 19)
 - coworker
 - click-through rate (CTR)
 - cost per click
