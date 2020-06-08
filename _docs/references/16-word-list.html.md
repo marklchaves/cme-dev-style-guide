@@ -5,7 +5,7 @@ order: 1
 ---
 ## Standardized spellings
 
-These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
+These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
@@ -16,11 +16,12 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - coworker
 - click-through rate (CTR)
 - cost per click
+- database (DB)
 - double-click
 - drop-down (noun, adjective), drop down (verb)
 - eBay
 - e-book, e-cigarette
-- e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (Uncanny Owl)
+- e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for Uncanny Owl)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
@@ -53,6 +54,8 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pre-sale
 - product-market fit
 - signup (noun, adjective), sign up (verb)
+- RDBMS (relational database management system)
+- SQL (Structured Query Language; use _an_ SQL file)
 - state of the art (noun), state-of-the-art (adjective)
 - sync
 - third party (noun), third-party (adjective) 
