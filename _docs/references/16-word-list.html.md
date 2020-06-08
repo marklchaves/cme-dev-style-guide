@@ -53,8 +53,8 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pop-up (noun, adjective), pop up (verb)
 - pre-sale
 - product-market fit
-- signup (noun, adjective), sign up (verb)
 - RDBMS (relational database management system)
+- signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
 - state of the art (noun), state-of-the-art (adjective)
 - sync
