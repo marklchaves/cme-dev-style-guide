@@ -24,6 +24,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - eBay
 - e-book, e-cigarette
 - e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for Uncanny Owl)
+- e-learning (from the MS Style Guide, use E-learning at the beginning of a sentence or heading)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
