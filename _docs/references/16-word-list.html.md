@@ -53,6 +53,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective) , opt in (verb)
 - pay-per-click (PPC)
+- plain text (no hyphen)
 - pop-up (noun, adjective), pop up (verb)
 - pre-sale
 - product-market fit
