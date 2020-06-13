@@ -58,6 +58,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pre-sale
 - product-market fit
 - RDBMS (relational database management system)
+- right-click (when referring to the mouse click)
 - setup (noun), set up (verb)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
