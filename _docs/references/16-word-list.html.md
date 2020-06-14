@@ -38,6 +38,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - geolocation
 - hashtag
 - homepage
+- how-to (adjective and noun; plural how-tos)
 - integrate
 - internet (never capitalize unless it begins a sentence)
 - iOS
