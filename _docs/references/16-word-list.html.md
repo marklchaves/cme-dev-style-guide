@@ -5,7 +5,7 @@ order: 1
 ---
 ## Standardized spellings
 
-These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
+These words and terms can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
