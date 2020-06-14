@@ -64,6 +64,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
 - state of the art (noun), state-of-the-art (adjective)
+- step-by-step (adjective)
 - sync
 - third party (noun), third-party (adjective) 
 - tweet, retweet
