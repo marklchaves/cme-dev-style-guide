@@ -8,7 +8,7 @@ order: 1
 These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
 - add-on (noun, adjective), add on (verb)
-- back end (noun), back-end (adjective)
+- back end (noun), back-end (adjective) for Mailchimp and MS. backend (noun), back-end (adjective) for the WordPress Codex.
 - best seller (noun), best-selling (adjective)
 - beta
 - brick-and-mortar 
@@ -34,7 +34,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
   - Cc, Bcc
 - emoji (singular and plural)
 - Facebook
-- front end (noun), front-end (adjective)
+- front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
 - geolocation
 - hashtag
 - homepage
@@ -51,7 +51,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - omnichannel (use sparingly)
 - one of a kind (noun phrase), one-of-a-kind (adjective)
 - online (never capitalize unless it begins a sentence)
-- opt-in (noun, adjective) , opt in (verb)
+- opt-in (noun, adjective), opt in (verb)
 - pay-per-click (PPC)
 - plain text (no hyphen)
 - pop-up (noun, adjective), pop up (verb)
@@ -101,4 +101,3 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 -  best-in-breed
 -  Silicon Valley cliches like rise and grind, or disruptor/disruption.
 -  activation (when referring to our presence at an event)
-
