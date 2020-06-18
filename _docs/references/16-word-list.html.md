@@ -5,7 +5,7 @@ order: 1
 ---
 ## Standardized spellings
 
-These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
+These words and terms can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective) for Mailchimp and MS. backend (noun), back-end (adjective) for the WordPress Codex.
@@ -38,6 +38,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - geolocation
 - hashtag
 - homepage
+- how-to (adjective and noun; plural how-tos)
 - integrate
 - internet (never capitalize unless it begins a sentence)
 - iOS
@@ -63,6 +64,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
 - state of the art (noun), state-of-the-art (adjective)
+- step-by-step (adjective)
 - sync
 - third party (noun), third-party (adjective) 
 - tweet, retweet
