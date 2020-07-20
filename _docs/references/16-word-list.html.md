@@ -36,6 +36,8 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - Facebook
 - front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
 - geolocation
+- Gmail
+- G Suite
 - hashtag
 - homepage
 - how-to (adjective and noun; plural how-tos)
