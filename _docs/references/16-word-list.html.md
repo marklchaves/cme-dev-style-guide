@@ -105,4 +105,4 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 -  best-in-breed
 -  Silicon Valley cliches like rise and grind, or disruptor/disruption.
 -  activation (when referring to our presence at an event)
-e
+
