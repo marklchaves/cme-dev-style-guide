@@ -39,6 +39,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - Gmail
 - G Suite
 - hashtag
+- Help Scout (2 words—for my favourite tech support team)
 - homepage
 - how-to (adjective and noun; plural how-tos)
 - integrate
