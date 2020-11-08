@@ -53,6 +53,8 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 - Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.
 - When in doubt, read your writing out loud.
 
+> "Stick to one adjective per verb most of the time. Stick to a maximum of five or six nouns per sentence, too&mdash;any longer than that and the sentence should be split." Tips from Writing Explained [.org]
+
 ## Web elements
 
 - Organize your page around one topic.
