@@ -20,6 +20,8 @@ We don’t want to overload our audience with unnecessary information, choices, 
 
 When relevant, provide a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
+<a name="types" id="types"></a>
+
 ## Types of technical content
 
 Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader.
