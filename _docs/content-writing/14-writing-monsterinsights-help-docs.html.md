@@ -17,8 +17,8 @@ See the [How to Set Up Custom Dimensions](https://www.monsterinsights.com/docs/h
 - Screen captures are 1080px wide.
 - Red arrow graphics come from
 [https://drive.google.com/drive/folders/0B8WAeM7vUQAHOVJMN0tHcTBEb2M?usp=sharing](https://drive.google.com/drive/folders/0B8WAeM7vUQAHOVJMN0tHcTBEb2M?usp=sharing)
-- There's **no** summary or conclusion section. Instead of a summary or conclusion there's a nudge CTA to read a recommended post/doc. E.g.:
+- There's **no** summary or conclusion section. Instead of a summary or conclusion there's a _nudge_ CTA to read a recommended post/doc. E.g.:
 
 <blockquote>
-If you enjoy having more and more data, you should definitely check out our [Google Analytics eCommerce Tracking plugin](https://www.monsterinsights.com/addon/ecommerce/). This will make it very easy for you to track your sales from your site!
+If you enjoy having more and more data, you should definitely check out our <a href="https://www.monsterinsights.com/addon/ecommerce/">Google Analytics eCommerce Tracking plugin</a>. This will make it very easy for you to track your sales from your site!
 </blockquote>
