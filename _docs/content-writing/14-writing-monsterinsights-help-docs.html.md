@@ -4,9 +4,9 @@ category: Writing
 order: 8
 ---
 
-## Impromptu Style Guide (from observing the CD how-to doc)
+## Impromptu Style Guide 
 
-See the [How to Set Up Custom Dimensions](https://www.monsterinsights.com/docs/how-do-i-set-up-custom-dimensions/) document for more details.
+This impromptu style guide was reverse engineered using the [How to Set Up Custom Dimensions](https://www.monsterinsights.com/docs/how-do-i-set-up-custom-dimensions/) document as an example.
 
 - The intro section should have a prerequisites section.
 - H2s are title case.
