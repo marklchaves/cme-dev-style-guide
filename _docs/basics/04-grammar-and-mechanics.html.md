@@ -241,6 +241,18 @@ When writing a list, use the serial comma (also known as the Oxford comma).
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
+Use a comma after a coordinating conjunction that joins 2 independent clauses. This approach is one way to fix comma splices.
+
+* Yes: I like rock climbing, but I totally dig surfing.
+
+Use commas before and after nonrestrictive appositive phrases.
+
+* Yes: Chewbacca, a needy Wookiee, demands lots of attention.
+
+Don't use commas to separate restrictive appositive phrases.
+
+* Yes: The rock star, Mick Jagger, has the most famous set of lips.
+
 #### Dashes and hyphens
 
 Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
