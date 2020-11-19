@@ -21,6 +21,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - database (DB)
 - double-click
 - drop-down (noun, adjective), drop down (verb)
+- Dropbox
 - eBay
 - e-book, e-cigarette
 - e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for Uncanny Owl)
@@ -42,6 +43,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - Help Scout (2 words—for my favourite tech support team)
 - homepage
 - how-to (adjective and noun; plural how-tos)
+- Hubspot
 - integrate
 - internet (never capitalize unless it begins a sentence)
 - iOS
@@ -49,6 +51,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - login (noun, adjective), log in (verb)
 - Like (the social media activity)
 - macOS
+- Mailchimp
 - multichannel
 - nonprofit
 - OK, okay (for Uncanny Owl)
@@ -66,6 +69,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - setup (noun), set up (verb)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
+- Squarespace
 - state of the art (noun), state-of-the-art (adjective)
 - step-by-step (adjective)
 - sync
@@ -76,6 +80,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - URL (uniform resource locator aka link or webpage address)
 - webpage
 - website
+- whitespace or white space
 - WiFi
 - WordPress (not Wordpress or wordpress)
 
