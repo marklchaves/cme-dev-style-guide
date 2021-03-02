@@ -10,7 +10,7 @@ This impromptu style guide was reverse engineered using the [How to Set Up Custo
 
 - The intro section should have a prerequisites section.
 - H2s are title case.
-- Numbered steps are H2s and are prefaced with the word "Step" followed by a number.
+- Numbered steps are H2s and are prefaced with the word "Step" followed by a number and colon. E.g., Step 1: Do This Now
 - H2 _step_ titles start with a verb.
 - Sub steps are not numbered.
 - Navigation breadcrumbs are delimited by 2 _greater than_ symbols (>>)

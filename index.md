@@ -12,7 +12,7 @@ This guide goes beyond basic grammar and style points. It’s not traditional in
 
 We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
 
-## If you work on Caught My Eye writing projects
+## If you work on Caught My Eye projects
 
 There are now three high-level categories to further organise the original Mailchimp guide. These categories are named foundations, writing, and references.
 
