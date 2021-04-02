@@ -23,4 +23,6 @@ If you’re working on your own style guide, these resources were helpful to us:
 
 Want to adapt our guide to use at your own organization?
 
-[Mailchimp Style Guide on GitHub](https://github.com/mailchimp/style-guide)
+[Mailchimp Content Style Guide repo on GitHub](https://github.com/mailchimp/content-style-guide)
+
+[caught my eye Style Guide repo on GitHub](https://github.com/marklchaves/cme-dev-style-guide)
