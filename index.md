@@ -22,8 +22,19 @@ Some projects such as the Uncanny Owl blog, will have grammar rules that conflic
 
 Mailchimp and Caught My Eye invite you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp.
 
-We welcome any feedback for improving the guide.
+## What's next?
 
-[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+- Use the navigation bar to get around. The navigation bar will be on the **left** if you're on a desktop. If you're on a mobile, click the menu icon at the **top** right of page.
+- **Explore** the [Foundations](basics/01-writing-principles.html/) section. 
+- **Dive** into the [Writing](content-writing/07-writing-blog-posts.html/) section. 
+- **Check** yourself in our [References](references/16-word-list.html/) section.
 
-[Caught My Eye Style Guide on GitHub](https://github.com/marklchaves/cme-dev-style-guide)
+## Feedback
+
+We welcome any feedback for improving the guide. Visit the GitHub repositories to suggest a change, report an issue, or fork your own copy of the guide.
+
+### GitHub Repositories
+
+[Mailchimp Content Style Guide repo on GitHub](https://github.com/mailchimp/content-style-guide)
+
+[Caught My Eye Style Guide repo on GitHub](https://github.com/marklchaves/cme-dev-style-guide)
