@@ -4,7 +4,7 @@ title: Welcome
 
 ## If you work at Mailchimp
 
-This guide is a fork of Mailchimp's company style guide. The goal is for Mailchimp content creators to write clear and consistent content across teams and channels. Please use it as a reference when you're writing for Mailchimp.
+This guide is a fork of Mailchimp's company style guide. The guide's goal is to help Mailchimp content creators write clear and consistent content across teams and channels. Please use it as a reference when you're writing for Mailchimp.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 
@@ -18,7 +18,7 @@ Some projects, such as the Uncanny Owl blog, will have grammar rules that confli
 
 ## If you work at another organization
 
-_caught my eye_ invites you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp can caught my eye as appropriate.
+_caught my eye_ invites you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp and caught my eye as appropriate.
 
 ## What's next?
 
