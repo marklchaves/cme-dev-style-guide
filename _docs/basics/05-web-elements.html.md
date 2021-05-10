@@ -57,6 +57,8 @@ Include the most relevant keywords in your headings and subheadings, and make su
 
 Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
 
+<a id="links"></a>
+
 ### Links
 
 Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.
@@ -72,9 +74,11 @@ Don’t say things like “Click here!” or “Click for more information” or
 
 Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state. When setting the hover state of links, be sure to include focus state as well, to help readers using assistive technologies and touch devices.
 
+Google's [developer documentation style guide](https://developers.google.com/style/cross-references) doesn't recommend opening links in a new tab or window by default. Google prefers to let the reader decide how to open the link.
+
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. 
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter.
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 

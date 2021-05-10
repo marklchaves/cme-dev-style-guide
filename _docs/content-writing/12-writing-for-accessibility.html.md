@@ -45,9 +45,16 @@ Make true lists instead of using a paragraph or line breaks.
 
 Label inputs with clear names, and use appropriate tags. Think carefully about what fields are necessary, and especially which ones you mark as required. Label required fields clearly. The shorter the form, the better.
 
+<a id="links"></a>
+
 ### Use descriptive links
 
 Links should provide information on the associated action or destination. Try to avoid “click here” or “learn more.”
+
+When linking a statistical cross-reference, don't link the statistic. The link text should be the source's name, such as a company or the article's title.
+
+- Yes: According to [Kinsta](https://kinsta.com/blog/wordpress-statistics), WordPress powers 14.7% of the world's top websites.
+- No: According to Kinsta, WordPress powers [14.7%](https://kinsta.com/blog/wordpress-statistics) of the world's top websites.
 
 ### Use plain language
 
