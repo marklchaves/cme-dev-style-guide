@@ -61,7 +61,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - opt-in (noun, adjective), opt in (verb)
 - pay-per-click (PPC)
 - plain text (no hyphen)
-- pop-up (noun, adjective), pop up (verb)
+- pop-up (noun, adjective), pop up (verb), popup (noun) <a id="pop-up"></a>
 - pre-sale
 - product-market fit
 - RDBMS (relational database management system)
