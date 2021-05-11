@@ -38,7 +38,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
 - geolocation
 - Gmail
-- G Suite
+- G Suite (deprecated)
 - hashtag
 - Help Scout (2 words—for my favourite tech support team)
 - homepage

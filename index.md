@@ -2,13 +2,15 @@
 title: Welcome
 ---
 
-## If you work at Mailchimp
+## Originally from Mailchimp
 
-This guide is a fork of Mailchimp's company style guide. The guide's goal is to help Mailchimp content creators write clear and consistent content across teams and channels. Please use it as a reference when you're writing for Mailchimp.
+This content style guide is a _fork_ of Mailchimp's company style guide.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 
-We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+You'll see topics grouped by the types of content we produce, e.g., blog posts, email, and social media.
+
+The entire guide is searchable, so you can go straight to the item you’re looking for.
 
 ## If you work on caught my eye projects
 
