@@ -82,6 +82,8 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 They’re great\! They give your writing an informal, friendly tone.
 
+<a id="emoji"></a>
+
 ### Emoji
 
 Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
