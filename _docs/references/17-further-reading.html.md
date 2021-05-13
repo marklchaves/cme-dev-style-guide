@@ -20,6 +20,7 @@ If you’re working on your own style guide, these resources were helpful to us:
 [The Conscious Style Guide](http://consciousstyleguide.com/)   
 [GLAAD Media Reference Guide](http://www.glaad.org/reference)   
 [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+[Capitalize My Title](https://capitalizemytitle.com/style/AP/)
 
 Want to adapt our guide to use at your own organization?
 

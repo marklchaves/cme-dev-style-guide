@@ -66,6 +66,9 @@ Use _a_ before vowels that sound like consonants.
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
 
+* Title case: This Heading Is in Title Case
+* Sentence case: This heading is in sentence case.
+
 When writing out an email address or website URL, use all lowercase.
 
 * freddie@mailchimp.com
