@@ -146,6 +146,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 		width: $nav-width;
 		right: auto;
 		bottom: auto;
+		position: fixed; /* Make the sidebar sticky. ~mlc */
 
 		.open-nav {
 			display: none;
