@@ -14,16 +14,16 @@ While some content types are better served by a unique structure created by the 
 
 Consider using a template if:
 
-- Users would benefit from seeing your content multiple places
-- Readers need to be able to scan it
-- Writers need to be able to create it quickly
+- Readers benefit from seeing your content multiple places
+- Readers need to scan it
+- Writers need to create similar content more than once or twice
 - You want to encourage repeat visits and familiarity with your content
 
 All educational content at Mailchimp relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
 
 ## Guidelines
 
-If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
+If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to create a new template.
 
 ### Use a model
 
@@ -38,11 +38,11 @@ Common elements in templates are:
 - Body content (which can usually be broken apart into smaller elements)
 - Additional links
 
-Keep in mind that the template has to be reusable, so it's best to focus on the high-level goal of the content type, rather than the message of a particular piece.
+Keep in mind that the template has to be reusable. So, it's best to focus on the high-level goal of the content type, rather than the message of a particular piece.
 
 ### Start from scratch
 
-If you like outlining before you write, that's a great way to start your template. This will give you an early look at the elements you’ll include in your final template and will help organize your writing process.
+If you like outlining before you write, that's a great way to start your template. Outlining will give you an early look at the elements you’ll include in your final template and will help organize your writing process.
 
 You may prefer to write a draft first, then outline later based on how the parts fit together. Read your draft closely and identify the important elements or patterns you've used. Looking for things like introductions, sections with headings, tables, images, and other elements that aren’t topic-specific. Write them out and describe how they inform the meaning or usability of the piece.
 
