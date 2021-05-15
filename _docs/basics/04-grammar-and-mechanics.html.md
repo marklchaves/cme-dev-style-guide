@@ -300,11 +300,15 @@ Grammarly says to use the word *and* if the word *between* introduces a range.
 
 #### Ellipses
 
-You can use ellipses (…) to express that you’re trailing off before the end of a thought. Use ellipses sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+Avoid using [ellipses](https://www.merriam-webster.com/dictionary/ellipsis).
 
-There should be a space before and after an ellipsis. There's no space after the ellipsis if there's a punctuation mark after the ellipsis. The following example has a period after the ellipsis.
+You can use ellipses (…) to express that you’re trailing off before the end of a thought. If you need to, use ellipses sparingly and follow these rules. 
 
-* “Where did all those donuts go?” Christy asked. Lain said, “I don't know ….”
+Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+
+Add a space before and after an ellipsis. Don't add a space after the ellipsis if there's a punctuation mark after it. The following example has a period after the ellipsis.
+
+* “Where did all those donuts go?” Christy asked. Lain said, “I don't know …. Wait. I thought you had them last.”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
