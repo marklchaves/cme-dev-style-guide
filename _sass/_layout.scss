@@ -141,17 +141,17 @@ $nav-image: $baseurl + "/images/menu.svg";
 		}
 	}
 
-	/* If there's enough height for the vertical navbar,
-	   make it a sticky sidebar. ~mlc */	
-	@media (min-width: $mobile-break) and (min-height: $nav-vert-header-height){
-		position: fixed; 
-	}
-
 	@media (min-width: $mobile-break) {
 		background-color: transparent;
 		width: $nav-width;
 		right: auto;
 		bottom: auto;
+
+		/* If there's enough height for the vertical navbar,
+	       make it a sticky sidebar. ~mlc */
+		@media (min-height: $nav-vert-header-height){
+			position: fixed; 
+		}
 
 		.open-nav {
 			display: none;
