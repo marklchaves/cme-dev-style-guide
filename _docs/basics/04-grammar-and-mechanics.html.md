@@ -150,11 +150,11 @@ Use decimal points when a number can’t be easily written out as a fraction, li
 
 #### Percentages
 
-Use the % symbol instead of spelling out "percent."
+Use the % symbol instead of spelling out "percent." Avoid beginning a sentence with a percentage.
 
 #### Ranges and spans
 
-Use a hyphen (-) to indicate a range or span of numbers.
+Use a hyphen (-) to indicate a range or span of numbers. There should be no spaces before and after the hyphen in a range or span of numbers.
 
 * It takes 20-30 days.
 
@@ -302,9 +302,11 @@ Grammarly says to use the word *and* if the word *between* introduces a range.
 
 #### Ellipses
 
-Ellipses (…) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+You can use ellipses (…) to express that you’re trailing off before the end of a thought. Use ellipses sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
-* “Where did all those donuts go?” Christy asked. Lain said, “I don't know…”
+There should be a space before and after an ellipsis. There's no space after the ellipsis if there's a punctuation mark after the ellipsis. The following example has a period after the ellipsis.
+
+* “Where did all those donuts go?” Christy asked. Lain said, “I don't know ….”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
