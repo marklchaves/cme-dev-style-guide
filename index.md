@@ -4,7 +4,7 @@ title: Welcome
 
 ## Originally from Mailchimp
 
-This content style guide is a _fork_ of Mailchimp's company style guide.
+The cme dev content style guide is a _fork_ of Mailchimp's company style guide.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 
