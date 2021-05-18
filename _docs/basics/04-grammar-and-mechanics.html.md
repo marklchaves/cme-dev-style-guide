@@ -85,8 +85,6 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 They’re great\! They give your writing an informal, friendly tone.
 
-<a id="emoji"></a>
-
 ### Emoji
 
 Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
@@ -150,11 +148,11 @@ Use decimal points when a number can’t be easily written out as a fraction, li
 
 #### Percentages
 
-Use the % symbol instead of spelling out "percent."
+Use the % symbol instead of spelling out "percent." Avoid beginning a sentence with a percentage.
 
 #### Ranges and spans
 
-Use a hyphen (-) to indicate a range or span of numbers.
+Use a hyphen (-) to indicate a range or span of numbers. There should be no spaces before and after the hyphen in a range or span of numbers.
 
 * It takes 20-30 days.
 
@@ -302,11 +300,17 @@ Grammarly says to use the word *and* if the word *between* introduces a range.
 
 #### Ellipses
 
-Ellipses (…) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+In general, avoid using [ellipses](https://www.merriam-webster.com/dictionary/ellipsis).
 
-* “Where did all those donuts go?” Christy asked. Lain said, “I don't know…”
+You can use ellipses (…) to express that you’re trailing off before the end of a thought. If you need to, use ellipses sparingly and follow these rules. 
 
-Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
+Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+
+Add a space before and after an ellipsis. Don't add a space after the ellipsis if punctuation comes after it. The following example has a period after the ellipsis.
+
+* “Where did all those donuts go?” Christy asked. Lain said, “I don't know …. Wait. I thought you had them last.”
+
+Ellipses, in brackets, can help to show that you're omitting words in a quote.
 
 * “When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, \[…\] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.”
 

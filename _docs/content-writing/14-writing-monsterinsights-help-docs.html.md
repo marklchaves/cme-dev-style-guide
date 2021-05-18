@@ -15,8 +15,7 @@ This impromptu style guide was reverse engineered using the [How to Set Up Custo
 - Sub steps are not numbered.
 - Navigation breadcrumbs are delimited by 2 _greater than_ symbols (>>)
 - Screen captures are 1080px wide.
-- Red arrow graphics come from
-[https://drive.google.com/drive/folders/0B8WAeM7vUQAHOVJMN0tHcTBEb2M?usp=sharing](https://drive.google.com/drive/folders/0B8WAeM7vUQAHOVJMN0tHcTBEb2M?usp=sharing)
+- The red arrow graphics are [here](https://www.dropbox.com/sh/vykytcns9hklvyu/AAD0aU8qAQE_EWbyWE4DxLyJa?dl=0).
 - There's **no** summary or conclusion section. Instead of a summary or conclusion there's a _nudge_ CTA to read a recommended post/doc. E.g.:
 
 <blockquote>

@@ -57,8 +57,6 @@ Include the most relevant keywords in your headings and subheadings, and make su
 
 Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
 
-<a id="links"></a>
-
 ### Links
 
 Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.

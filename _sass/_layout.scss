@@ -146,7 +146,12 @@ $nav-image: $baseurl + "/images/menu.svg";
 		width: $nav-width;
 		right: auto;
 		bottom: auto;
-		position: fixed; /* Make the sidebar sticky. ~mlc */
+
+		/* If there's enough height for the vertical navbar,
+	       make it a  sidebar. ~mlc */
+		@media (min-height: $nav-vert-header-height){
+			position: fixed; 
+		}
 
 		.open-nav {
 			display: none;
