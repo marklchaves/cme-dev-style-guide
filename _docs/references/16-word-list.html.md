@@ -8,10 +8,12 @@ order: 1
 These words and terms can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
 - add-on (noun, adjective), add on (verb)
+- autoplay
 - back end (noun), back-end (adjective) for Mailchimp and MS. backend (noun), back-end (adjective) for the WordPress Codex.
 - best seller (noun), best-selling (adjective)
 - beta
 - brick-and-mortar 
+- call to action (no hyphens, can abbreviate to CTA)
 - checkbox
 - coronavirus (not corona virus)
 - COVID-19 (not covid-19, COVID19, or COVID 19)
@@ -20,7 +22,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - cost per click
 - database (DB)
 - double-click
-- drop-down (noun, adjective), drop down (verb)
+- drop-down (noun, adjective), drop down (verb), dropdown (noun)
 - Dropbox
 - eBay
 - e-book, e-cigarette
