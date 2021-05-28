@@ -147,11 +147,14 @@ $nav-image: $baseurl + "/images/menu.svg";
 		right: auto;
 		bottom: auto;
 
-		/* If there's enough height for the vertical navbar,
-	       make it a  sidebar. ~mlc */
-		@media (min-height: $nav-vert-header-height){
-			position: fixed; 
-		}
+		/* 
+		 * On wide displays, have a sticky vert navbar
+		 * that's scrollable if there's not enough height
+		 * to show all nav items at once. ~mlc 
+		 */
+		height: 100%;
+		overflow-y: scroll;
+		position: fixed;
 
 		.open-nav {
 			display: none;
