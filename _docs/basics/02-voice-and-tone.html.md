@@ -40,11 +40,11 @@ Mailchimp has a sense of humor, so feel free to be funny when it’s appropriate
 
 ## Style tips
 
-Here are a few key elements of writing Mailchimp’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
+Here are a few key elements of writing Mailchimp’s voice. For more, see the [Grammar and mechanics section](/basics/04-grammar-and-mechanics.html).
 
-* [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
+* [**Active voice**](/basics/04-grammar-and-mechanics.html/#active-voice) Use active voice. Avoid passive voice.
+* [**Avoid slang and jargon**](/basics/04-grammar-and-mechanics.html/#slang-and-jargon) Write in plain English.
+* [**Write positively**](/basics/04-grammar-and-mechanics.html/#write-positively) Use positive language rather than negative language.
 
 ## A note about Freddie
 
