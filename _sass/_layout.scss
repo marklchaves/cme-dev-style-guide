@@ -229,6 +229,10 @@ header > form {
 	}
 }
 
+.full-navigation {
+	padding-bottom: $space;
+}
+
 nav > ul {
 	padding: $space / 2 0;
 
@@ -259,10 +263,14 @@ nav > ul {
 		display: block;
 	}
 
+	> a:focus {
+		color: $cme-orange;
+	}
+
 	&.current > a,
 	> a:active,
 	> a:hover {
-		color: #111;
+		color: $cme-orange;
 	}
 
 	&.top-level > a {

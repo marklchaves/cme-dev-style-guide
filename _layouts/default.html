@@ -48,14 +48,17 @@
 				</ul>
 
 				<ul>
+					{% assign menuID = 0 %}
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
-						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
+						{% assign menuID = menuID | plus: 1 %}
+						<li id='{{ "menu-id-" | append: menuID }}' class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
 							{% assign items = group.items | sort: 'order' %}
 							<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 							<ul>
 								{% for item in items %}
-									<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+									{% assign menuID = menuID | plus: 1 %}
+									<li id='{{ "menu-id-" | append: menuID }}' class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
 								{% endfor %}
 							</ul>
 						</li>
@@ -83,6 +86,8 @@
 		<button onclick="cme_scrollToTop(800)" id="cme_toTopBut" title="Go to top">&#8593;</button>
 
         <script src="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.1.0/dist/cme-to-top-button.min.js"></script>
+
+		<script src="{{ site.baseurl }}/scripts/milton.js"></script>
 
 	</body>
 </html>

@@ -1,0 +1,1 @@
+!function(){if(document.querySelectorAll(".nav-item").forEach((e=>{e.addEventListener("click",(e=>{e.target.hasAttribute("id")&&sessionStorage.setItem("menu-id",e.target.getAttribute("id"))}),!1)})),!sessionStorage.length)return;let e=sessionStorage.getItem("menu-id");if(e&&"null"!==e){document.getElementById("menu-id-"+e).focus()}}();
