@@ -12,7 +12,7 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
+For more on how and why we use alt text, read the [Accessibility](/content-writing/12-writing-for-accessibility.html) section.
 
 ### Buttons
 

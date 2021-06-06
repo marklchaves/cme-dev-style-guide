@@ -19,7 +19,7 @@ These channels are all managed by the Marketing team. We also have a few team-sp
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional pointers, too.
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](/basics/02-voice-and-tone.html) and [Grammar and mechanics](/basics/04-grammar-and-mechanics.html) sections. Here are some additional pointers, too.
 
 ### Write short, but smart
 

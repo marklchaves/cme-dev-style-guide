@@ -16,7 +16,7 @@ We try to write all of our content in standard, straightforward English that can
 
 Here are some guiding principles for writing for international audiences:
 
-* **Use [active voice](/04-grammar-and-mechanics.html.md/#header-3-active-voice).** We always aim for this, but it's especially important when writing for translation.
+* **Use [active voice](/basics/04-grammar-and-mechanics.html/#header-3-active-voice).** We always aim for this, but it's especially important when writing for translation.
 
 * **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
 
@@ -24,7 +24,7 @@ Here are some guiding principles for writing for international audiences:
 
 ## Guidelines
 
-When writing for international audiences, we generally follow what's outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
+When writing for international audiences, we generally follow what's outlined in the [Voice and tone](/basics/02-voice-and-tone.html) and [Grammar and mechanics](/basics/04-grammar-and-mechanics.html) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
 
 ### Consider cultural differences
 

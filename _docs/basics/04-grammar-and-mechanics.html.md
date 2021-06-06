@@ -74,7 +74,7 @@ When writing out an email address or website URL, use all lowercase.
 * freddie@mailchimp.com
 * mailchimp.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/references/16-word-list.html).
 
 * website
 * internet
@@ -382,7 +382,7 @@ When referring to a specific file, the filename should be lowercase:
 
 If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
-For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
+For more on writing about gender, see [Writing about people](/basics/03-writing-about-people.html).
 
 #### Quotes
 

@@ -40,7 +40,7 @@ Here are some examples of article templates we use.
 
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some other goals and pointers to keep in mind.
+When writing technical content, follow the style points outlined in the [Voice and tone](/basics/02-voice-and-tone.html) and [Grammar and mechanics](/basics/04-grammar-and-mechanics.html) sections. Here are some other goals and pointers to keep in mind.
 
 #### Stay relevant to the title
 

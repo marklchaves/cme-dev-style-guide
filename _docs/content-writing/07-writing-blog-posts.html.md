@@ -21,7 +21,7 @@ We publish blog posts that explain the “why” behind the work we do at Mailch
 
 ## Guidelines
 
-When writing for the blog, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general pointers, too.
+When writing for the blog, follow the style points outlined in the [Voice and tone](/basics/02-voice-and-tone.html) and [Grammar and mechanics](/basics/04-grammar-and-mechanics.html) sections. Here are some more general pointers, too.
 
 ### Be casual, but smart
 This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language.

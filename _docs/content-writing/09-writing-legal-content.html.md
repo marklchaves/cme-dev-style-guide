@@ -6,8 +6,6 @@ order: 3
 
 Mailchimp publishes many kinds of legal content to protect ourselves and our users around the world. Most of our legal content is written by the Legal department with help from the Communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
-For information about laws that apply to non-legal content, see the [Copyright and trademark](/15-copyright-and-trademarks.html.md) section.
-
 ## Basics
 
 The way we write, review, and publish legal content is different than how we do many other kinds of writing at Mailchimp. The most important difference is that all legal content either starts with or passes through the Legal team.
@@ -62,7 +60,7 @@ The Communications team works with the Legal team to write and publish these doc
 
 ## Guidelines
 
-When writing legal content, generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general considerations, too.
+When writing legal content, generally follow the style points outlined in the [Voice and tone](/basics/02-voice-and-tone.html) and [Grammar and mechanics](/basics/04-grammar-and-mechanics.html) sections. Here are some more general considerations, too.
 
 #### Start with the facts
 
