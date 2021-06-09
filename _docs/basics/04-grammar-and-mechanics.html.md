@@ -137,6 +137,21 @@ Generally, spell out the day of the week and the month. Abbreviate only if space
 * Saturday, January 24
 * Sat., Jan. 24
 
+#### File sizes
+
+Capitalize the abbreviation for the units. Add one space between the numbers and the units.
+
+* 4 KB
+* 10 MB
+
+#### Image resolutions
+
+Abbreviate pixels with a lower-case px. Add a space between the numbers and the units.
+
+* 1024 x 768 px
+* 512 x 512 pixels
+* 800 px
+
 #### Decimals and fractions
 
 Spell out fractions.
