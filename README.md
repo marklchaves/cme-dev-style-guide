@@ -33,3 +33,7 @@ _caught my eye_ invites you to use and adapt this style guide as you see fit. It
 ## Feedback
 
 We welcome any feedback for improving the guide. Visit the GitHub repositories to suggest a change, report an issue, or fork a copy of the guide.
+
+---
+
+Powered by [Jekyll](https://jekyllrb.com/) running the [Edition template](https://github.com/CloudCannon/edition-jekyll-template) from [CloudCannon](https://cloudcannon.com/).
