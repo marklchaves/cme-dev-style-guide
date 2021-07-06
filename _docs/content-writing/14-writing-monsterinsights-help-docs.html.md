@@ -13,7 +13,8 @@ This impromptu style guide was reverse engineered using the [How to Set Up Custo
 - Numbered steps are H2s and are prefaced with the word "Step" followed by a number and colon. E.g., Step 1: Do This Now
 - H2 _step_ titles start with a verb.
 - Sub steps are not numbered.
-- Navigation breadcrumbs are delimited by 2 _greater than_ symbols (>>)
+- Navigation breadcrumbs are delimited by 2 _greater than_ symbols (>>).
+- Navigation labels are in bold. Don't use boldface for the breadcrumb delimiters. E.g., Navigate to **Insights** >> **Reports** >> **Overview**.
 - Screen captures are 1080px wide.
 - The red arrow graphics are [here](https://www.dropbox.com/sh/vykytcns9hklvyu/AAD0aU8qAQE_EWbyWE4DxLyJa?dl=0).
 - There's **no** summary or conclusion section. Instead of a summary or conclusion there's a _nudge_ CTA to read a recommended post/doc. E.g.:
