@@ -487,6 +487,10 @@ Use italics when citing an example of an in-app Mailchimp element, or referencin
 * When you're all done, click *Send*.
 * The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
 
+For MonsterInsights and Popup Maker, use _boldface_ for citing plugin headings and labels.
+
+* Click on **Add Popup** to create a new popup.
+
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
 Left-align text, never center or right-aligned.
