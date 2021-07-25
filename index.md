@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-## Originally from Mailchimp
+## Based on the Official Mailchimp Style Guide
 
 The cme dev content style guide is a _fork_ of Mailchimp's company style guide.
 
