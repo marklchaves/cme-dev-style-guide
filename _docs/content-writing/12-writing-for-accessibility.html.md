@@ -12,7 +12,7 @@ Depending on the audience and country, there may be laws governing the level of 
 
 ## Basics
 
-We write for a diverse audience of readers who all interact with our content in different ways. We aim to make our content accessible to anyone using a screen reader, keyboard navigation, or Braille interface, and to users of all cognitive capabilities.
+We write for a diverse audience of readers who all interact with our content in different ways. We aim to make our content accessible to anyone using a screen reader, keyboard navigation, or Braille interface, and to people of all cognitive capabilities.
 
 As you write, consider the following:
 
