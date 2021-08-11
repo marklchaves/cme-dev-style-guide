@@ -4,7 +4,11 @@ category: Writing
 order: 6
 ---
 
-We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational (broken glasses!) or more permanent.
+We’re always working to make our content more accessible and usable to the widest possible audience. 
+
+Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. 
+
+Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes people of all mental and physical capacities, whether situational (broken glasses!) or more permanent.
 
 ## Basics
 
@@ -62,11 +66,25 @@ Write short sentences and use familiar words. Avoid jargon and slang. If you nee
 
 ### Use alt text
 
-The alt tag is the most basic form of image description, and it should be included on all images. The language will depend on the purpose of the image:
+Alt text describes the connection of an image to its written content.
+
+Screen readers read the alt text out loud. Search engines use alt text for indexing. Web browsers temporarily display the image’s alt text while the image is loading (permanently if the image doesn’t load).
+
+Try to have alt text for all your images. You should omit alt text for purely decorative images (include `alt=""` instead)
+
+How you write the alt text depends on the purpose of the image:
 
 - If it’s a creative photo or supports a story, describe the image in detail in a brief caption.
 - If the image is serving a specific function, describe what’s inside the image in detail. People who don’t see the image should come away with the same information as if they had.
 - If you’re sharing a chart or graph, include the data in the alt text so people have all the important information.
+
+Examples: 
+
+- Yes: Horses grazing in front of a monastary in the Himalayas.
+- No: A picture of horses in a field.
+
+- Yes: Acme product's features and plans with annual pricing.
+- No: Acme's pricing
 
 Each browser handles alt tags differently. Supplement images with standard captions when possible.
 
@@ -87,3 +105,6 @@ Images should not be the only method of communication, because images may not lo
 - [Designing for Screen Reader Compatibility](http://webaim.org/techniques/screenreader/)
 - [Accessible color combinations](http://colorsafe.co/)
 - [WAVE Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+- [Google developer documentation style guide](https://developers.google.com/style/images#alt-text)
+- [Harvard University digital accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
+- [Accessibility: Image Alt text best practices](https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices)
