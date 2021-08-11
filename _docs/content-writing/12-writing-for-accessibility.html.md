@@ -76,11 +76,11 @@ How you write the alt text depends on the purpose of the image:
 
 - If it’s a creative photo or supports a story, describe the image in detail in a brief caption.
 - If the image is serving a specific function, describe what’s inside the image in detail. People who don’t see the image should come away with the same information as if they had.
-- If you’re sharing a chart or graph, include the data in the alt text so people have all the important information.
+- If you’re sharing a chart or graph, include the data in the alt text, so people have all the important information.
 
 Examples: 
 
-- Yes: Horses grazing in front of a monastary in the Himalayas.
+- Yes: Horses grazing in front of a monastery in the Himalayas.
 - No: A picture of horses in a field.
 
 - Yes: Acme product's features and plans with annual pricing.
