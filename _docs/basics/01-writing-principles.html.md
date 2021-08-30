@@ -14,7 +14,7 @@ With every piece of content we publish, we aim to:
 
 * **Guide.** Think of yourself as a tour guide for our readers. Whether you’re leading them through our educational materials or a task in our app, communicate in a friendly and helpful way.
 
-* **Speak truth.** Understand Mailchimp's place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
+* **Speak truth.** Understand Mailchimp's place in our customers' lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
 
 In order to achieve those goals, we make sure our content is:
 

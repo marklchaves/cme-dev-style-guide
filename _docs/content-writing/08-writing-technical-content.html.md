@@ -12,11 +12,11 @@ Someone reading technical content is usually looking to answer a specific questi
 
 For each project, consider your audience’s background, goal, and current mood. Ask these questions:
 
-- Is the reader a prospective user, a new user, or an experienced user?
-- What is the goal of the user? To complete a task? To research a topic?
-- Is the user in the middle of a task? Are they in a hurry? Could they be frustrated?
+- Is the reader a prospective customer, a new customer, or an experienced customer?
+- What is the goal of the customer? To complete a task? To research a topic?
+- Is the customer in the middle of a task? Are they in a hurry? Could they be frustrated?
 
-We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to. This is particularly critical when a user may be new and/or frustrated. 
+We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to. This is particularly critical when a customer may be new and/or frustrated. 
 
 When relevant, provide a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
@@ -44,15 +44,15 @@ When writing technical content, follow the style points outlined in the [Voice a
 
 #### Stay relevant to the title
 
-When a user clicks the title of an article, they expect to find the answer they want. Don’t stray too far from the title or topic at hand. Use links to make related content available. If you find you’re getting too far from the intended topic, then you may need to create a separate but related article.
+When a reader clicks the title of an article, they expect to find the answer they want. Don’t stray too far from the title or topic at hand. Use links to make related content available. If you find you’re getting too far from the intended topic, then you may need to create a separate but related article.
 
 #### Keep headlines and paragraphs short and scannable
 
-Focused users often scan an article for the part that will answer their particular question. Be sure headlines are short, descriptive, and parallel, to facilitate scanning.
+Focused readers often scan an article for the part that will answer their particular question. Be sure headlines are short, descriptive, and parallel, to help scanning.
 
-#### Use second person and describe actions to a user
+#### Use second person and describe actions to a reader
 
-Technical content talks to users when support agents can’t.
+Technical content talks to customers when support agents can’t.
 
 #### Strive for simplicity and clarity
 
@@ -60,7 +60,7 @@ Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to
 
 #### Provide context through embedded screenshots, videos, and GIFs
 
-Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
+Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new customers. Crop screenshots tightly around the action to focus attention.
 
 ### Formatting technical content
 

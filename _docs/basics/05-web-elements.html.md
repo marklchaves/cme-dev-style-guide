@@ -41,7 +41,7 @@ Use title case for form titles and sentence case for form fields.
 
 Keep forms as short as possible.
 
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
+Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the person can fill in on their own, not a drop-down menu. 
 
 ### Headings and subheadings
 
@@ -59,7 +59,7 @@ Use title case, unless the heading is a punctuated sentence. If the heading is a
 
 ### Links
 
-Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.
+Provide a link whenever you’re referring to something on an external website. Use links to point readers to relevant content and trusted external resources.
 
 Don’t include preceding articles (a, an, the, our) when you link text. For example:
 

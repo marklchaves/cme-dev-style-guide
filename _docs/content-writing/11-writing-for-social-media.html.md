@@ -4,7 +4,7 @@ category: Writing
 order: 5
 ---
 
-We use social media to build relationships with Mailchimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
+We use social media to build relationships with Mailchimp customers and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
 
 ## Basics
 
@@ -33,7 +33,7 @@ To write short, simplify your ideas or reduce the amount of information you’re
 
 ### Engagement
 
-Do your best to adhere to Mailchimp style guidelines when you’re using our social media channels to correspond with users. Use correct grammar and punctuation—and avoid excessive exclamation points.
+Do your best to adhere to Mailchimp style guidelines when you’re using our social media channels to correspond with people. Use correct grammar and punctuation—and avoid excessive exclamation points.
 
 When appropriate, you can tag the subject of your post on Twitter or Facebook. But avoid directly tweeting at or otherwise publicly tagging a post subject with messages like, “Hey, we wrote about you!” Never ask for retweets, likes, or favorites.
 
@@ -42,7 +42,7 @@ When appropriate, you can tag the subject of your post on Twitter or Facebook. B
 
 ### Hashtags
 
-We employ hashtags rarely and deliberately. We may use them to promote an event or connect with users at a conference. Do not use current event or trending hashtags to promote Mailchimp.
+We employ hashtags rarely and deliberately. We may use them to promote an event or connect with people at a conference. Do not use current event or trending hashtags to promote Mailchimp.
 
 ### Trending topics
 

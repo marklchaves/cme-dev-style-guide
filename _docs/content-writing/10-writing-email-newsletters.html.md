@@ -4,11 +4,11 @@ category: Writing
 order: 4
 ---
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
+We send a lot of email ourselves, and we follow our own best practices to set an example for customers. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
 ## Basics
 
-Our email newsletters help empower and inform Mailchimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform Mailchimp customers. Here are the most common types of content we send by email:
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
@@ -67,9 +67,9 @@ More than 50 percent of emails are read on a mobile device. Limit links to the m
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
 
 ### Segment your audience
-It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
+It’s exciting to send to millions of customers at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
 
-Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
+Once you've selected an audience, adjust the language to fit their needs. For example, readers who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 
 ### Test your campaigns
 Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.

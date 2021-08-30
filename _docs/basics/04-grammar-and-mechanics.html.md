@@ -276,7 +276,7 @@ Don't use commas to separate restrictive appositive phrases.
 
 Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
 
-* first-time user
+* first-time visitor
 * Monday-Friday
 
 Use an em dash (—) without spaces on either side to offset an aside.
@@ -473,7 +473,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-* Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+* Mailchimp's Ops team is constantly scaling our servers to make sure our customers have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 

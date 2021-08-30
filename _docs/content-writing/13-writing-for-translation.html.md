@@ -4,15 +4,15 @@ category: Writing
 order: 7
 ---
 
-Mailchimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
+Mailchimp serves millions of people in hundreds of countries and territories, not just the United States. As our customer base grows, it becomes more and more important that our content is accessible to people around the world.
 
 We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audiences, including translators, better comprehend your text.
 
 ## Basics
 
-Our [Technical Content](http://mailchimp.com/help/) is available to all users in English, Spanish, French, German, and Portuguese. Sometimes other pieces of content will be translated as well.
+Our [Technical Content](http://mailchimp.com/help/) is available to all customers in English, Spanish, French, German, and Portuguese. Sometimes other pieces of content will be translated as well.
 
-We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
+We try to write all of our content in standard, straightforward English that can be understood by people with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
 
 Here are some guiding principles for writing for international audiences:
 
@@ -134,7 +134,7 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 **“Require” plus an infinitive** (could confuse the relationship between subject and object)
 
 - Yes: Autoresponders can be configured and sent from paid accounts.
-- No: A paid account is required to send autoresponders. (This could imply that users with paid accounts are required to send autoresponders.)
+- No: A paid account is required to send autoresponders. (This could imply that customers with paid accounts are required to send autoresponders.)
 
 **“Has” or “have” plus past participle** (could confuse the relationship between subject and object)
 

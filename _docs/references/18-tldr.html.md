@@ -26,7 +26,7 @@ Mailchimp’s voice is:
 
 Our tone changes depending on the situation, but it's generally informal. We have a sense of humor, but we value clarity over entertainment.
 
-Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
+Our priorities are to educate our customers about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
 ## Writing about people
 
