@@ -80,7 +80,7 @@ Use lists to present steps, groups, or sets of information. Give context for the
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don't use punctuation, but do capitalize the first word of each item.
 
-Make your lists use parallel structure or syntax—more on that in the next section.
+Design your lists so their structure or syntax is **parallel**—more on that in the next section.
 
 ### Uncanny Owl's style for lists
 
@@ -92,7 +92,7 @@ When you submit your article, you'll need to include:
 
 - A title that has a headline score of 70 or higher
 - Properly licensed images with their longest side at 2,000 pixels or more
-- Remember to include your Gravatar email address.
+- Remember to send your Gravatar email address.
 
 The first 2 list items above use parallel syntax. The third item does not.
 
