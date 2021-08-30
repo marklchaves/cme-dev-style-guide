@@ -22,6 +22,7 @@ If you’re working on your own style guide, these resources were helpful to us:
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Capitalize My Title](https://capitalizemytitle.com/style/AP/)
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)
+- [Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
 
 Want to adapt our guide to use at your own organization?
 
