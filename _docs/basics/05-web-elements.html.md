@@ -76,15 +76,25 @@ Google's [developer documentation style guide](https://developers.google.com/sty
 
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter.
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number your lists when the order (or priority) is important, like when you're describing steps of a process. Don't use numbers when the list's order doesn't matter.
 
-If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
+If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don't use punctuation, but do capitalize the first word of each item.
+
+Make your lists use parallel structure or syntax—more on that in the next section.
 
 ### Uncanny Owl's style for lists
 
-For Uncanny Owl, preface all lists with colons, not periods. In other words, it doesn't matter if the introductory sentence is complete. It still needs to end in a colon. 
+For Uncanny Owl, preface all lists with colons, not periods. In other words, it doesn't matter if the introductory sentence (lead-in) is complete. It still needs to end in a colon. 
 
-Bullet points should relate to the original statement, not necessarily flow into each other. For each bullet, read it as if it follows the statement with the colon at the top, not the previous point. Then, make sure it still works.
+Bullet points should relate to the lead-in statement, not necessarily flow into each other. For each bullet, read it as if it follows the lead-in with the colon at the top, not the previous point. Then, make sure it still works (parallel structure). Here's an example.
+
+When you submit your article, you'll need to include:
+
+- A title that has a headline score of 70 or higher
+- Properly licensed images with their longest side at 2,000 pixels or more
+- Remember to include your Gravatar email address.
+
+The first 2 list items above use parallel syntax. The third item does not.
 
 ### Navigation
 
