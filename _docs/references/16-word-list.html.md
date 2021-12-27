@@ -33,7 +33,6 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - Dropbox
 
 ### E
-</a>
 - eBay
 - e-book, e-cigarette
 - <a id="e-commerce" name="e-commerce"></a>e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for MonsterInsights and Uncanny Owl)
@@ -50,7 +49,6 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 ### F
 - Facebook
 - front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
-</a>
 
 ### G
 
