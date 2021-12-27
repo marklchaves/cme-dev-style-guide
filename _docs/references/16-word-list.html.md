@@ -24,8 +24,10 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - double-click
 - drop-down (noun, adjective), drop down (verb), dropdown (noun)
 - Dropbox
+<a id="e"></a>
 - eBay
 - e-book, e-cigarette
+<a id="e-commerce"></a>
 - e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for MonsterInsights and Uncanny Owl)
 - e-learning (from the MS Style Guide, use E-learning at the beginning of a sentence or heading)
 - ePub
@@ -37,6 +39,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
   - Cc, Bcc
 - emoji (singular and plural)
 - Facebook
+<a id="front-end"></a>
 - front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
 - geolocation
 - Gmail
@@ -52,6 +55,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - iPhone
 - login (noun, adjective), log in (verb)
 - Like (the social media activity)
+<a id="macos"></a>
 - macOS
 - Mailchimp
 - multichannel
@@ -68,6 +72,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - product-market fit
 - RDBMS (relational database management system)
 - right-click (when referring to the mouse click)
+<a id="setup"></a>
 - setup (noun), set up (verb)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
@@ -86,6 +91,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - WiFi
 - WordPress (not Wordpress or wordpress)
 
+<a id="carefully"></a>
 ## Words to use carefully
 We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
 
@@ -101,6 +107,7 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 - product-market fit
 - value proposition
 
+<a id="avoid"></a>
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
