@@ -7,12 +7,17 @@ order: 1
 
 These words and terms can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/) and the [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).)
 
+### A 
 - add-on (noun, adjective), add on (verb)
 - autoplay
+
+### B
 - back end (noun), back-end (adjective) for Mailchimp and MS. backend (noun), back-end (adjective) for the WordPress Codex.
 - best seller (noun), best-selling (adjective)
 - beta
 - brick-and-mortar 
+
+### C
 - call to action (no hyphens, can abbreviate to CTA)
 - checkbox
 - coronavirus (not corona virus)
@@ -20,15 +25,18 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - coworker
 - click-through rate (CTR)
 - cost per click
+
+### D
 - database (DB)
 - double-click
 - drop-down (noun, adjective), drop down (verb), dropdown (noun)
 - Dropbox
-<a id="e"></a>
+
+### E
+</a>
 - eBay
 - e-book, e-cigarette
-<a id="e-commerce"></a>
-- e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for MonsterInsights and Uncanny Owl)
+- <a id="e-commerce" name="e-commerce"></a>e-commerce (the industry, can capitalize if it begins a sentence), eCommerce (for MonsterInsights and Uncanny Owl)
 - e-learning (from the MS Style Guide, use E-learning at the beginning of a sentence or heading)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
@@ -38,41 +46,62 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
   - Subject line
   - Cc, Bcc
 - emoji (singular and plural)
+
+### F
 - Facebook
-<a id="front-end"></a>
 - front end (noun), front-end (adjective) for Mailchimp and MS. frontend (noun), front-end (adjective) for the WordPress Codex.
+</a>
+
+### G
+
 - geolocation
 - Gmail
 - G Suite (deprecated)
+
+### H
 - hashtag
 - Help Scout (2 words—for my favourite tech support team)
 - homepage
 - how-to (adjective and noun; plural how-tos)
 - Hubspot
+
+### I
 - integrate
 - internet (never capitalize unless it begins a sentence)
 - iOS
 - iPhone
+
+### L
 - login (noun, adjective), log in (verb)
 - Like (the social media activity)
-<a id="macos"></a>
+
+### M
 - macOS
 - Mailchimp
 - multichannel
+
+### N
 - nonprofit
+
+### O
 - OK, okay (for Uncanny Owl)
 - omnichannel (use sparingly)
 - one of a kind (noun phrase), one-of-a-kind (adjective)
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective), opt in (verb)
+
+### P
 - pay-per-click (PPC)
 - plain text (no hyphen)
-- pop-up (noun, adjective), pop up (verb), popup (noun) <a id="pop-up"></a>
+- <a id="pop-up"></a>pop-up (noun, adjective), pop up (verb), popup (noun)
 - pre-sale
 - product-market fit
+
+### R
 - RDBMS (relational database management system)
 - right-click (when referring to the mouse click)
-<a id="setup"></a>
+
+### S
 - setup (noun), set up (verb)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
@@ -80,18 +109,23 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - state of the art (noun), state-of-the-art (adjective)
 - step-by-step (adjective)
 - sync
+
+### T
 - third party (noun), third-party (adjective) 
 - tweet, retweet
+
+### U
 - username
 - Uncanny Owl
 - URL (uniform resource locator aka link or webpage address)
+
+### W
 - webpage
 - website
 - whitespace or white space
 - WiFi
 - WordPress (not Wordpress or wordpress)
 
-<a id="carefully"></a>
 ## Words to use carefully
 We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
 
@@ -107,7 +141,6 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 - product-market fit
 - value proposition
 
-<a id="avoid"></a>
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
