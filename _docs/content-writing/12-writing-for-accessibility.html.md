@@ -70,7 +70,7 @@ Alt text describes the connection of an image to its written content.
 
 Screen readers read the alt text out loud. Search engines use alt text for indexing. Web browsers temporarily display the image’s alt text while the image is loading (permanently if the image doesn’t load).
 
-Try to have alt text for all your images. You should omit alt text for purely decorative images (include `alt=""` instead)
+Try to have alt text for all your images. You should omit alt text for purely decorative images (e.g., `alt=""`).
 
 How you write the alt text depends on the purpose of the image:
 
