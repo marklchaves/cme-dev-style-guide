@@ -207,7 +207,7 @@ Use a hyphen between times to indicate a time period.
 
 * 7 am–10:30 pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. For example, Mailchimp is in Atlanta, so they default to United States Eastern time.
 
 Abbreviate time zones within the continental United States as follows:
 

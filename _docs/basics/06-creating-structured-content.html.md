@@ -4,7 +4,7 @@ category: Foundations
 order: 6
 ---
 
-At Mailchimp, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
+We write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
 
 This section lays out when to use a structured content template and how to create a template of your own.
 
@@ -19,7 +19,7 @@ Consider using a template if:
 - Writers need to create similar content more than once or twice
 - You want to encourage repeat visits and familiarity with your content
 
-All educational content at Mailchimp relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
+All educational content relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
 
 ## Guidelines
 

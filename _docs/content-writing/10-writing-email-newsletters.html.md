@@ -52,7 +52,7 @@ All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-an
 
 ### Consider your perspective
 
-When sending an email newsletter from Mailchimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.

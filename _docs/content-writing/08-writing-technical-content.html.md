@@ -4,7 +4,7 @@ category: Writing
 order: 2
 ---
 
-At Mailchimp, technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+Our technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
@@ -68,7 +68,7 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 #### Capitalization
 
-Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
+Capitalize proper names of products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
 
 - Mailchimp
 - Compliance Team, Billing Team
