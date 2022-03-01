@@ -45,7 +45,3 @@ Here are a few key elements of writing Mailchimp’s voice. For more, see the [G
 * [**Active voice**](/basics/04-grammar-and-mechanics.html/#active-voice) Use active voice. Avoid passive voice.
 * [**Avoid slang and jargon**](/basics/04-grammar-and-mechanics.html/#slang-and-jargon) Write in plain English.
 * [**Write positively**](/basics/04-grammar-and-mechanics.html/#write-positively) Use positive language rather than negative language.
-
-## A note about Freddie
-
-Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](https://mailchimp.com/about/brand-assets/).
