@@ -40,11 +40,16 @@ In active voice, the subject of the sentence does the action. In passive voice, 
 * Yes: Marti logged into the account.
 * No: The account was logged into by Marti.
 
+* Yes: You can go back to add a cookie later if you change your mind.
+* No: If a cookie is not added at this step, a cookie can be added later from the popup editor.
+
 Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
 * Your account was flagged by our Abuse team.
+
+Learn more about [active versus passive voice on Grammarly](https://www.grammarly.com/blog/active-vs-passive-voice/).
 
 ### Articles
 
@@ -71,8 +76,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-* freddie@mailchimp.com
-* mailchimp.com
+* mark@caughtmyeye.cc
+* www.caughtmyeye.cc
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/references/16-word-list.html).
 
@@ -503,3 +508,31 @@ Use positive language rather than negative language. One way to detect negative 
 
 * Yes: To get a donut, stand in line.
 * No: You can’t get a donut if you don’t stand in line.
+
+### Microcopy (UX Writing)
+
+Every guideline we just covered applies when writing microcopy. Pay extra attention to these:
+
+* Be concise.
+* Be specific.
+* Be consistent.
+* Use active voice.
+* Use numerals instead of words.
+
+Remember to write in plain English. Here's an excellent example from [Material Design by Google](https://material.io/design/communication/writing.html#principles).
+
+* Yes: Turn on Location History
+* No: Enable Location History
+
+We'll throw one more tip (into the mix) that's more common in UX writing.
+
+#### Ask questions rather than always giving commands
+
+* Yes: When can people see this popup?
+* No: Schedules are used to limit when a popup is activated.
+
+* Yes: What's happening?
+* No: Write your tweet.
+
+* Yes: Forgot your password?
+* No: Reset your password.
