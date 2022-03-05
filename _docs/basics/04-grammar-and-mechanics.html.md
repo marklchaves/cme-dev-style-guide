@@ -494,7 +494,7 @@ Use italics when citing an example of an in-app Mailchimp element, or referencin
 
 For MonsterInsights and Popup Maker, use _boldface_ for citing plugin headings and labels.
 
-* Click on **Add Popup** to create a new popup.
+* Click **Add Popup** to create a new popup.
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
@@ -511,7 +511,7 @@ Use positive language rather than negative language. One way to detect negative 
 
 ### Microcopy (UX Writing)
 
-Every guideline we just covered applies when writing microcopy. Pay extra attention to these:
+When writing microcopy, pay extra attention to these guidelines:
 
 * Be concise.
 * Be specific.
@@ -524,7 +524,7 @@ Remember to write in plain English. Here's an excellent example from [Material D
 * Yes: Turn on Location History
 * No: Enable Location History
 
-We'll throw one more tip (into the mix) that's more common in UX writing.
+We'll throw in one tip that's specific to UX writing.
 
 #### Ask questions rather than always giving commands
 
@@ -536,3 +536,7 @@ We'll throw one more tip (into the mix) that's more common in UX writing.
 
 * Yes: Forgot your password?
 * No: Reset your password.
+
+We're not saying to go overboard. Instead, try finding a _sweet spot_ to balance questions and commands. Here's some inspiration from Slack.
+
+![](/images/slack-microcopy-example-750w.png)
