@@ -55,10 +55,22 @@ Label inputs with clear names, and use appropriate tags. Think carefully about w
 
 Links should provide information on the associated action or destination. Try to avoid “click here” or “learn more.”
 
-When linking a statistical cross-reference, don't link the statistic. The link text should be the source's name, such as a company or the article's title.
+When linking a statistical cross-reference, don't link the statistic. The link text should be either:
+
+- The source's name, such as a company or the article's title.
+- A phrase or sentence that describes what you're linking to, such as the subject of the reference article.
+
+Here are some examples.
 
 - Yes: According to [Kinsta](https://kinsta.com/blog/wordpress-statistics), WordPress powers 14.7% of the world's top websites.
 - No: According to Kinsta, WordPress powers [14.7%](https://kinsta.com/blog/wordpress-statistics) of the world's top websites.
+
+- Yes: According to a [March 2020 marketing automation report](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and), about 50% of surveyed companies use marketing automation.
+- No: According to a March 2020 marketing automation report, about [50%](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and) of surveyed companies use marketing automation.
+
+- Yes: Just because an [image is on the internet](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) doesn’t mean you can use it in your blog post.
+- No: Just because an [image](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) is on the internet doesn’t mean you can use it in your blog post.
+
 
 ### Use plain language
 
