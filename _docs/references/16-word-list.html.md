@@ -97,6 +97,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 
 ### R
 - RDBMS (relational database management system)
+- reproduce (means _to try to produce again_; use instead of replicate which means _to copy_)
 - right-click (when referring to the mouse click)
 
 ### S
@@ -146,8 +147,9 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
--  crushing it, killing it
--  crazy, insane, or similar words to describe people
--  best-in-breed
--  Silicon Valley cliches like rise and grind, or disruptor/disruption.
--  activation (when referring to our presence at an event)
+- crushing it, killing it
+- crazy, insane, or similar words to describe people
+- best-in-breed
+- Silicon Valley cliches like rise and grind, or disruptor/disruption.
+- activation (when referring to our presence at an event)
+- replicate (use copy instead unless you're trying to _reproduce_ a problem)

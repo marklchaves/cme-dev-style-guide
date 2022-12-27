@@ -509,6 +509,52 @@ Use positive language rather than negative language. One way to detect negative 
 * Yes: To get a donut, stand in line.
 * No: You can’t get a donut if you don’t stand in line.
 
+### Use simple words and phrases
+
+Did you know the US federal government must [write in plain language by law](https://www.plainlanguage.gov/law/)? If using simpler words and phrases is good enough for the US gov, then it should be good enough for you.
+
+Here's an example of making a sentence easier to read by using simpler words and phrases.
+
+* No: Please replicate your website in order for us to perform our test procedures.
+* Yes: Can you make a copy of your site so we can test our fix for you?
+
+In that example, we did the following:
+
+* Used _copy_ instead of _replicate_ 
+* Removed _in order for us_
+* Removed _perform_
+* Replaced _test procedures_ with test
+
+You should also use the most accurate word. In this example, _reproduce_ is more precise than _replicate_.
+
+* No: Can you give us the steps to replicate that problem you're seeing?
+* Yes: Can you tell us what you did when you saw the problem? We want to reproduce it on our end.
+
+When in doubt, look it up. Here's how the _New Oxford American Dictionary_ defines replicate and reproduce.
+
+**Replicate**: To make an exact copy.
+
+**Reproduce**: To produce again or create something very similar.
+
+#### The US Government's Dirty Dozen
+
+Check out the [US government's list of simple words and phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/). Here's their top 12 (dirty dozen) from that list.
+
+|    | Avoid | Use Instead |
+|----|-------|-------------|
+| 1. | addressees | you |
+| 2. | assist, assistance | aid, help |
+| 3. | commence | begin, start |
+| 4. | implement | carry out, start |
+| 5. | in accordance with | by, following, per, under |
+| 6. | in order that | for, so |
+| 7. | in the amount of | for |
+| 8. | in the event of | if |
+| 9. | it is | (omit) |
+| 10. | promulgate | issue, publish |
+| 11. | this activity, command | us, we |
+| 12. | utilize, utilization | use |
+
 ### Microcopy (UX Writing)
 
 When writing microcopy, pay extra attention to these guidelines:
