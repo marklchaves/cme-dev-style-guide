@@ -43,7 +43,7 @@ In active voice, the subject of the sentence does the action. In passive voice, 
 * **Yes**: You can go back to add a cookie later if you change your mind.
 * **No**: If a cookie is not added at this step, a cookie can be added later from the popup editor.
 
-Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
+Words like “was” and “by” may signal that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
@@ -172,7 +172,7 @@ Use the % symbol instead of spelling out "percent." Avoid beginning a sentence w
 
 #### Ranges and spans
 
-Use a hyphen (-) to indicate a range or span of numbers. There should be no spaces before and after the hyphen in a range or span of numbers.
+Use a hyphen (-) for a range or span of numbers. There should be no spaces before and after the hyphen in a range or span of numbers.
 
 * It takes 20-30 days.
 
@@ -208,7 +208,7 @@ Use numerals and am or pm, with a space in between. Don’t use minutes for on-t
 * 7 am
 * 7:30 pm
 
-Use a hyphen between times to indicate a time period.
+Use a hyphen between times for a time period.
 
 * 7 am–10:30 pm
 
@@ -279,7 +279,7 @@ Don't use commas to separate restrictive appositive phrases.
 
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
+Use a hyphen (-) without spaces on either side to link words into single phrase, or for a span or range.
 
 * first-time visitor
 * Monday-Friday
@@ -482,7 +482,7 @@ Write in plain English. If you need to use a technical term, briefly define it s
 
 ### Text formatting
 
-Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
+Use italics to for the title of a long work (like a book, movie, or album) or to emphasize a word.
 
 * *Dunston Checks In*
 * Brandon *really* loves *Dunston Checks In*.

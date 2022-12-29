@@ -151,6 +151,6 @@ When writing for an international audience, use the metric system. Spell out all
 
 Many countries call their currency "the dollar," but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
 
-Indicate currency by using its 3-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
+Show currency by using its 3-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
 
 Avoid colloquial phrases that relate to money, like “five-and-dime,” “greenbacks,” or “c-notes.” These won’t translate well.
