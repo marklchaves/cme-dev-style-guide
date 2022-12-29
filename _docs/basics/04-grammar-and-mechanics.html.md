@@ -4,7 +4,7 @@ category: Foundations
 order: 4
 ---
 
-Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
+Sticking to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
 
 ## Basics
 
@@ -37,11 +37,11 @@ Use active voice. Avoid passive voice.
 
 In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it.
 
-* Yes: Marti logged into the account.
-* No: The account was logged into by Marti.
+* **Yes**: Marti logged into the account.
+* **No**: The account was logged into by Marti.
 
-* Yes: You can go back to add a cookie later if you change your mind.
-* No: If a cookie is not added at this step, a cookie can be added later from the popup editor.
+* **Yes**: You can go back to add a cookie later if you change your mind.
+* **No**: If a cookie is not added at this step, a cookie can be added later from the popup editor.
 
 Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
@@ -57,13 +57,13 @@ Learn more about [active versus passive voice on Grammarly](https://www.grammarl
 
 Use _an_ before consonants that sound like vowels.
 
-* Yes: You can trust an honest person.
-* No: You can trust a honest person.
+* **Yes**: You can trust an honest person.
+* **No**: You can trust a honest person.
  
 Use _a_ before vowels that sound like consonants.
 
-* Yes: There is a United States flag at school.
-* No: There is an United States flag at school.
+* **Yes**: There is a United States flag at school.
+* **No**: There is an United States flag at school.
 
 > This holds true with acronyms and initialisms, too: an LCD display, a UK-based company, an HR department, a URL. ~Grammarly
 
@@ -98,9 +98,9 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 This is how to write "at the time of writing".
 
-* Yes: "At the time of writing,"
-* No: "At the time of this writing,"
-* No: "At the time of writing this,"
+* **Yes**: "At the time of writing,"
+* **No**: "At the time of this writing,"
+* **No**: "At the time of writing this,"
 
 The [comma is optional](https://www.grammarly.com/blog/commas-after-introductory-phrases/) if the introductory phrase is prepositional.
 
@@ -108,8 +108,8 @@ Example: At the time of writing we had just released version 1.0.
 
 If "instead" is working as a preposition, the comma is optional. Use a comma if "instead" is an [adverb](https://english.stackexchange.com/questions/396200/comma-usage-do-i-need-a-comma-before-instead-and-if-so-why).
 
-* Yes: These special rules are added to this guide instead of overwriting the original rule.
-* Yes: I love literature. Instead, I opted for computer science.
+* **Yes**: These special rules are added to this guide instead of overwriting the original rule.
+* **Yes**: I love literature. Instead, I opted for computer science.
 
 ### Numbers
 
@@ -161,8 +161,8 @@ Abbreviate pixels with a lower-case px. Add a space between the numbers and the 
 
 Spell out fractions.
 
-* Yes: two-thirds
-* No: 2/3
+* **Yes**: two-thirds
+* **No**: 2/3
 
 Use decimal points when a number can’t be easily written out as a fraction, like 1.375 or 47.2.
 
@@ -259,23 +259,23 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 When writing a list, use the serial comma (also known as the Oxford comma).
 
-* Yes: David admires his parents, Oprah, and Justin Timberlake.
-* No: David admires his parents, Oprah and Justin Timberlake.
+* **Yes**: David admires his parents, Oprah, and Justin Timberlake.
+* **No**: David admires his parents, Oprah and Justin Timberlake.
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
 Use a comma after a coordinating conjunction that joins 2 independent clauses. Doing this is one way to fix comma splices.
 
-* Yes: I like rock climbing, but I totally dig surfing.
+* **Yes**: I like rock climbing, but I totally dig surfing.
 
 Use commas before and after nonrestrictive appositive phrases.
 
-* Yes: Chewbacca, a needy Wookiee, demands lots of attention.
+* **Yes**: Chewbacca, a needy Wookiee, demands lots of attention.
 
 Don't use commas to separate restrictive appositive phrases.
 
-* Yes: The rock star Mick Jagger has a famous set of lips.
-* No: The rock star, Mick Jagger, has a famous set of lips.
+* **Yes**: The rock star Mick Jagger has a famous set of lips.
+* **No**: The rock star, Mick Jagger, has a famous set of lips.
 
 #### Dashes and hyphens
 
@@ -295,8 +295,8 @@ Use a true em dash, not hyphens (- or –).
 
 Grammarly points out for compound modifiers, "If the noun comes first, leave the hyphen out."
 
-* Yes: This wall is load bearing.
-* Yes: Sam leaned against a load-bearing wall.
+* **Yes**: This wall is load bearing.
+* **Yes**: Sam leaned against a load-bearing wall.
 
 Uncanny Owl warns to watch for too much hyphenation. For example, “fill in” shouldn’t be “fill-in”, unless it's a noun and not an action.
 
@@ -506,8 +506,8 @@ Leave one space between sentences, never 2.
 
 Use positive language rather than negative language. One way to detect negative language is to look for words like “can’t,” “don’t,” etc.
 
-* Yes: To get a donut, stand in line.
-* No: You can’t get a donut if you don’t stand in line.
+* **Yes**: To get a donut, stand in line.
+* **No**: You can’t get a donut if you don’t stand in line.
 
 ### Use simple words and phrases
 
@@ -515,8 +515,8 @@ Did you know the US federal government must [write in plain language by law](htt
 
 Here's an example of making a sentence easier to read by using simpler words and phrases.
 
-* No: Please replicate your website in order for us to perform our test procedures.
-* Yes: Can you make a copy of your site so we can test our fix for you?
+* **Yes**: Can you make a copy of your site so we can test our fix for you?
+* **No**: Please replicate your website in order for us to perform our test procedures.
 
 In that example, we did the following:
 
@@ -525,10 +525,10 @@ In that example, we did the following:
 * Removed _perform_
 * Replaced _test procedures_ with test
 
-You should also use the most accurate word. In this example, _reproduce_ is more precise than _replicate_.
+You should also use the most accurate word. In this next example, _reproduce_ is more precise than _replicate_.
 
-* No: Can you give us the steps to replicate that problem you're seeing?
-* Yes: Can you tell us what you did when you saw the problem? We want to reproduce it on our end.
+* **Yes**: Can you tell us what you did when you saw the problem? We want to reproduce it on our end.
+* **No**: Can you give us the steps to replicate that problem you're seeing?
 
 When in doubt, look it up. Here's how the _New Oxford American Dictionary_ defines replicate and reproduce.
 
@@ -567,21 +567,21 @@ When writing microcopy, pay extra attention to these guidelines:
 
 Remember to write in plain English. Here's an excellent example from [Material Design by Google](https://material.io/design/communication/writing.html#principles).
 
-* Yes: Turn on Location History
-* No: Enable Location History
+* **Yes**: Turn on Location History
+* **No**: Enable Location History
 
 We'll throw in one tip that's specific to UX writing.
 
 #### Ask questions rather than always giving commands
 
-* Yes: When can people see this popup?
-* No: Schedules are used to limit when a popup is activated.
+* **Yes**: When can people see this popup?
+* **No**: Schedules are used to limit when a popup is activated.
 
-* Yes: What's happening?
-* No: Write your tweet.
+* **Yes**: What's happening?
+* **No**: Write your tweet.
 
-* Yes: Forgot your password?
-* No: Reset your password.
+* **Yes**: Forgot your password?
+* **No**: Reset your password.
 
 We're not saying to go overboard. Instead, try finding a _sweet spot_ to balance questions and commands. Here's some inspiration from Slack.
 

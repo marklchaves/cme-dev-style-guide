@@ -40,32 +40,32 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat verbs that have multiple subjects.
 
-  - Yes: Customers who have ordered online can pick up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
-  - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick up their food.
+  - **Yes**: Customers who have ordered online can pick up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
+  - **No**: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick up their food.
 
 #### Repeat helping verbs belonging to multiple verbs
 
-  - Yes: Mailchimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
-  - No: Mailchimp can send your campaign on the fly or schedule your campaign to go out at a set time.
+  - **Yes**: Mailchimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
+  - **No**: Mailchimp can send your campaign on the fly or schedule your campaign to go out at a set time.
 
 #### Repeat subjects and verbs
 
-  - Yes: Mandrill sends transactional emails, but Mailchimp does not.
-  - No: Mandrill sends transactional emails, but not Mailchimp.
+  - **Yes**: Mandrill sends transactional emails, but Mailchimp does not.
+  - **No**: Mandrill sends transactional emails, but not Mailchimp.
 
 #### Repeat markers in a list or series
 
-  - Yes: Use Mailchimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
-  - No: Use Mailchimp to send email campaigns, manage your mailing lists, and integrate with other applications.
+  - **Yes**: Use Mailchimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
+  - **No**: Use Mailchimp to send email campaigns, manage your mailing lists, and integrate with other applications.
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
 
-- Yes: If there is not a list set up in your Mailchimp account, then you’ll need to create a list before sending your first campaign.
-- No: If there is not a list set up in your Mailchimp account, you’ll need to create a list before sending your first campaign.
-- Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
-- No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
-- Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
-- No: Be sure you are truly ready to send your campaign before clicking the “Send Now” button.
+- **Yes**: If there is not a list set up in your Mailchimp account, then you’ll need to create a list before sending your first campaign.
+- **No**: If there is not a list set up in your Mailchimp account, you’ll need to create a list before sending your first campaign.
+- **Yes**: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
+- **No**: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
+- **Yes**: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
+- **No**: Be sure you are truly ready to send your campaign before clicking the “Send Now” button.
 
 ### Avoid ambiguity and confusion
 
@@ -73,8 +73,8 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid unclear pronoun references
 
-- Yes: Many believe that buying a list of email addresses and sending to the list through Mailchimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
-- No: Many believe that buying a list of email addresses and sending to the list through Mailchimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
+- **Yes**: Many believe that buying a list of email addresses and sending to the list through Mailchimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- **No**: Many believe that buying a list of email addresses and sending to the list through Mailchimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
 #### Avoid -ing words
 
@@ -86,23 +86,23 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 
 #### Gerunds
 
- - Yes: In this article we will talk about list subscriber collection.
- - No: In this article we will talk about getting list subscribers.
+ - **Yes**: In this article we will talk about list subscriber collection.
+ - **No**: In this article we will talk about getting list subscribers.
 
 #### Adjectives
 
- - Yes: At the top of the page, there is Freddie with a smile on his face.
- - No: At the top of the page, there is a smiling Freddie.
+ - **Yes**: At the top of the page, there is Freddie with a smile on his face.
+ - **No**: At the top of the page, there is a smiling Freddie.
 
 #### Parts of verbs
 
- - Yes: Several developers are currently working on that feature.
- - No: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
+ - **Yes**: Several developers are currently working on that feature.
+ - **No**: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
 
 #### Parts of phrases modifying nouns
 
- - Yes: From our backyard, we could hear the planes that took off from the airport.
- - No: From our backyard, we could hear the planes taking off from the airport.
+ - **Yes**: From our backyard, we could hear the planes that took off from the airport.
+ - **No**: From our backyard, we could hear the planes taking off from the airport.
 
 #### Other words and mechanics to avoid
 
@@ -118,28 +118,28 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 ### Beware words with multiple meanings
 
 **“Once”** (could mean “one time,” “after,” “in the past,” or “when”)
-- Yes: After you log in, you will see your account’s Dashboard.
-- No: Once you log in, you will see your account’s Dashboard.
+- **Yes**: After you log in, you will see your account’s Dashboard.
+- **No**: Once you log in, you will see your account’s Dashboard.
 
 **“Right”** (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
 
- - Yes: In the File Manager, click the correct image and drag it to the pane at right.
- - No: In the File Manager, click the right image and drag it to the right pane.
+ - **Yes**: In the File Manager, click the correct image and drag it to the pane at right.
+ - **No**: In the File Manager, click the right image and drag it to the right pane.
 
 **“Since”** (could refer to a point in time, or a synonym of “because”)
 
-- Yes: Because you already have a complete mailing list, you can send your campaign at any time.
-- No: Since you already have complete mailing list, you can send your campaign at any time.
+- **Yes**: Because you already have a complete mailing list, you can send your campaign at any time.
+- **No**: Since you already have complete mailing list, you can send your campaign at any time.
 
 **“Require” plus an infinitive** (could confuse the relationship between subject and object)
 
-- Yes: Autoresponders can be configured and sent from paid accounts.
-- No: A paid account is required to send autoresponders. (This could imply that customers with paid accounts are required to send autoresponders.)
+- **Yes**: Autoresponders can be configured and sent from paid accounts.
+- **No**: A paid account is required to send autoresponders. (This could imply that customers with paid accounts are required to send autoresponders.)
 
 **“Has” or “have” plus past participle** (could confuse the relationship between subject and object)
 
-- Yes: The folder contains sent campaigns.
-- No: The folder has sent campaigns.
+- **Yes**: The folder contains sent campaigns.
+- **No**: The folder has sent campaigns.
 
 ### Numbers
 

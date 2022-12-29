@@ -16,7 +16,7 @@ With every piece of content we publish, we aim to:
 
 * **Speak truth.** Understand our place in our customers' lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
 
-In order to achieve those goals, we make sure our content is:
+To reach those goals, we make sure our content is:
 
 * **Clear.** Understand the topic you’re writing about. Use simple words and sentences.
 

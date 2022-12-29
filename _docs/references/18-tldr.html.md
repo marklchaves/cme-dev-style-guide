@@ -47,7 +47,7 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 - Avoid unnecessary modifiers.
 - Use specific examples.
 - Avoid vague language.
-- Be consistent. Adhere to the copy patterns and style points outlined in this guide.
+- Be consistent. Stick to the copy patterns and style points outlined in this guide.
 - Feel free to use contractions.
 - Use the serial comma. Otherwise, use common sense.
 - Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.

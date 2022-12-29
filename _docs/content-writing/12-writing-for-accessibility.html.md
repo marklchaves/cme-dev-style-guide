@@ -30,8 +30,8 @@ Many of the best practices for writing for accessibility echo those for [writing
 
 Avoid directional instructions and any language that requires the reader to see the layout or design of the page. This is helpful for many reasons, including layout changes on mobile.
 
-- Yes: “Select from these options,” (with the steps listed after the title)
-- No: “Select from the options in the right sidebar.”
+- **Yes**: “Select from these options,” (with the steps listed after the title)
+- **No**: “Select from the options in the right sidebar.”
 
 ### Use headers
 
@@ -62,14 +62,14 @@ When linking a statistical cross-reference, don't link the statistic. The link t
 
 Here are some examples.
 
-- Yes: According to [Kinsta](https://kinsta.com/blog/wordpress-statistics), WordPress powers 14.7% of the world's top websites.
-- No: According to Kinsta, WordPress powers [14.7%](https://kinsta.com/blog/wordpress-statistics) of the world's top websites.
+- **Yes**: According to [Kinsta](https://kinsta.com/blog/wordpress-statistics), WordPress powers 14.7% of the world's top websites.
+- **No**: According to Kinsta, WordPress powers [14.7%](https://kinsta.com/blog/wordpress-statistics) of the world's top websites.
 
-- Yes: According to a [March 2020 marketing automation report](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and), about 50% of surveyed companies use marketing automation.
-- No: According to a March 2020 marketing automation report, about [50%](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and) of surveyed companies use marketing automation.
+- **Yes**: According to a [March 2020 marketing automation report](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and), about 50% of surveyed companies use marketing automation.
+- **No**: According to a March 2020 marketing automation report, about [50%](https://www.researchandmarkets.com/reports/4240451/marketing-automation-market-size-share-and) of surveyed companies use marketing automation.
 
-- Yes: Just because an [image is on the internet](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) doesn’t mean you can use it in your blog post.
-- No: Just because an [image](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) is on the internet doesn’t mean you can use it in your blog post.
+- **Yes**: Just because an [image is on the internet](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) doesn’t mean you can use it in your blog post.
+- **No**: Just because an [image](https://www.eyeem.com/blog/photo-copyright-101-is-it-legal-to-use-photos-from-the-internet) is on the internet doesn’t mean you can use it in your blog post.
 
 
 ### Use plain language
@@ -92,11 +92,11 @@ How you write the alt text depends on the purpose of the image:
 
 Examples: 
 
-- Yes: Horses grazing in front of a monastery in the Himalayas.
-- No: A picture of horses in a field.
+- **Yes**: Horses grazing in front of a monastery in the Himalayas.
+- **No**: A picture of horses in a field.
 
-- Yes: Acme product's features and plans with annual pricing.
-- No: Acme's pricing
+- **Yes**: Acme product's features and plans with annual pricing.
+- **No**: Acme's pricing
 
 Each browser handles alt tags differently. Supplement images with standard captions when possible.
 

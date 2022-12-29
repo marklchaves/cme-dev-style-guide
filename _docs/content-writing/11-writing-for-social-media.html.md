@@ -33,12 +33,12 @@ To write short, simplify your ideas or reduce the amount of information you’re
 
 ### Engagement
 
-Do your best to adhere to Mailchimp style guidelines when you’re using our social media channels to correspond with people. Use correct grammar and punctuation—and avoid excessive exclamation points.
+Do your best to stick to Mailchimp style guidelines when you’re using our social media channels to correspond with people. Use correct grammar and punctuation—and avoid excessive exclamation points.
 
 When appropriate, you can tag the subject of your post on Twitter or Facebook. But avoid directly tweeting at or otherwise publicly tagging a post subject with messages like, “Hey, we wrote about you!” Never ask for retweets, likes, or favorites.
 
-- Yes: [“We talked with @lauraolin about turning her awesome emails into a book. http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”](https://twitter.com/Mailchimp/status/593075130336686080)
-- No: “Hey @lauraolin, can you RT this post we wrote about you? http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”
+- **Yes**: [“We talked with @lauraolin about turning her awesome emails into a book. http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”](https://twitter.com/Mailchimp/status/593075130336686080)
+- **No**: “Hey @lauraolin, can you RT this post we wrote about you? http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”
 
 ### Hashtags
 

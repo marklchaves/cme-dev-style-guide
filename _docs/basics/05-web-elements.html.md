@@ -63,8 +63,8 @@ Provide a link whenever you’re referring to something on an external website. 
 
 Don’t include preceding articles (a, an, the, our) when you link text. For example:
 
-- Yes: Read the [automation guide](#) for details.
-- No: Read [the automation guide](#) for details.
+- **Yes**: Read the [automation guide](#) for details.
+- **No**: Read [the automation guide](#) for details.
 
 If a link comes at the end of a sentence or before a comma, don’t link the punctuation mark.
 
