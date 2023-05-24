@@ -1,5 +1,5 @@
 ---
-title: Word List
+title: Word and Phrase List
 category: References
 order: 1
 ---
@@ -55,6 +55,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 - geolocation
 - Gmail
 - G Suite (deprecated)
+- Gutenberg, WordPress block editor, block editor, WordPress editor, Gutenberg editor (from wordpress.org)
 
 ### H
 - hashtag
@@ -102,6 +103,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 
 ### S
 - setup (noun), set up (verb)
+- sidebar (e.g., post/page sidebar settings)
 - signup (noun, adjective), sign up (verb)
 - SQL (Structured Query Language; use _an_ SQL file)
 - Squarespace
@@ -111,6 +113,7 @@ These words and terms can be slippery. Here’s how we write them. (If it’s no
 
 ### T
 - third party (noun), third-party (adjective) 
+- toolbar (e.g., the administration screen toolbar )
 - tweet, retweet
 
 ### U
