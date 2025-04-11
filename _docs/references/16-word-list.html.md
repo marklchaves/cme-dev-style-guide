@@ -153,6 +153,15 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 - crushing it, killing it
 - crazy, insane, or similar words to describe people
 - best-in-breed
-- Silicon Valley cliches like rise and grind, or disruptor/disruption.
+- Silicon Valley cliches like rise and grind or disruptor/disruption.
 - activation (when referring to our presence at an event)
-- replicate (use copy instead unless you're trying to _reproduce_ a problem)
+
+## Simpler is better
+
+- replicate (copy instead unless you're trying to _reproduce_ a problem, then say _reproduce_)
+- encounter (see)
+- in order to (to)
+- enabled (on)
+- disabled (off)
+- experiencing (having)
+- difficulty (trouble, problem, hassle)
